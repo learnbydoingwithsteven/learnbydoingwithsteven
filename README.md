@@ -12,6 +12,8 @@
 ## 🚀 About Me
 AI/ML enthusiast and educator passionate about making complex technical concepts accessible to everyone. I create content focused on practical implementations of AI technologies, from basic machine learning to advanced LLM applications.
 
+> 🎥 *Need a break from coding? Check out my [4K drone videos](https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug) for some relaxing aerial views!*
+
 ## 🎥 Content Channels
 ### YouTube
 - [Learn by Doing](https://www.youtube.com/@learnbydoingwithsteven) - Hands-on AI/ML tutorials in English
