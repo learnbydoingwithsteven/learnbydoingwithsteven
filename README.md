@@ -8,10 +8,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=learnbydoingwithsteven&theme=darkhub&column=7" alt="trophy">
-</p>
-
 ## 🚀 About Me
 AI/ML enthusiast and educator passionate about making complex technical concepts accessible to everyone. I create content focused on practical implementations of AI technologies, from basic machine learning to advanced LLM applications.
 
@@ -19,16 +15,9 @@ AI/ML enthusiast and educator passionate about making complex technical concepts
 - [Learn by Doing](https://www.youtube.com/@learnbydoingwithsteven) - Hands-on AI/ML tutorials in English
 - [Steven学以致用](https://www.youtube.com/@Steven学以致用) - Technical content in Chinese
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&theme=dark" alt="GitHub Streak" />
-</p>
-
 ## 🔥 Featured Projects
-
 <div align="center">
-
 [![AutoGen Projects](https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark)](https://github.com/learnbydoingwithsteven/Youtube)
-
 </div>
 
 ### 📊 Recent Projects
@@ -36,6 +25,39 @@ AI/ML enthusiast and educator passionate about making complex technical concepts
 - **[Enhanced Prompting](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Advanced prompt engineering techniques
 - **[Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)** - Market analysis with NLP
 - **[Local LLM Solutions](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests)** - Deployment of local language models
+
+### 📚 All Projects
+<details>
+<summary>AutoGen Projects</summary>
+
+- **[AutoGen Research Group Chat](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Multi-agent research system
+- **[AutoGen Code Generation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Code generation with multiple agents
+- **[AutoGen RAG Integration](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - RAG-enhanced group chat
+</details>
+
+<details>
+<summary>LangChain Projects</summary>
+
+- **[Enhanced Prompting](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Advanced prompt engineering
+- **[LangChain Basics](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Foundation concepts
+- **[LangChain RAG](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Retrieval augmented generation
+</details>
+
+<details>
+<summary>AI/ML Applications</summary>
+
+- **[Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)** - Market analysis with NLP
+- **[ChatGPT Pros & Cons](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20chatgpt%20pros%20and%20cons)** - Analysis framework
+- **[Local LLM Solutions](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests)** - Local model deployment
+</details>
+
+<details>
+<summary>Educational Content</summary>
+
+- **[Python Basics](https://github.com/learnbydoingwithsteven/Youtube/tree/main/python_basics)** - Python programming fundamentals
+- **[AI/ML Tutorials](https://github.com/learnbydoingwithsteven/Youtube/tree/main/ai_ml_tutorials)** - Step-by-step guides
+- **[Code Examples](https://github.com/learnbydoingwithsteven/Youtube/tree/main/code_examples)** - Practical implementations
+</details>
 
 ## 💻 Tech Stack
 
@@ -75,19 +97,10 @@ AI/ML enthusiast and educator passionate about making complex technical concepts
   
   <p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&langs_count=7&theme=dark"/>
-    <img height="160em" src="https://github-contribution-stats.vercel.app/api/?username=learnbydoingwithsteven&theme=dark" />
   </p>
 
   <!-- Activity Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&theme=react-dark&hide_border=true" />
-  
-  <!-- Repository Cards with Activity -->
-  <p>
-    <a href="https://github.com/learnbydoingwithsteven/Youtube">
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark&show_owner=true" />
-      <img height="120em" src="https://repobeats.axiom.co/api/embed/your-repobeats-hash.svg" />
-    </a>
-  </p>
 </div>
 
 ## 📊 Weekly Coding Stats
