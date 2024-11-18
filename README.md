@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Steven
 
 <div align="center">
+
+### 🌐 [Visit My Personal Page](https://learnbydoingwithsteven.github.io/)
   
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube)](https://www.youtube.com/@learnbydoingwithsteven)
 [![GitHub followers](https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github)](https://github.com/learnbydoingwithsteven)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github)](https://learnbydoingwithsteven.github.io/)
+[![Personal Page](https://img.shields.io/badge/Personal_Page-Visit_Now-blue?style=for-the-badge&logo=github)](https://learnbydoingwithsteven.github.io/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/learnbydoing)
 
 </div>
