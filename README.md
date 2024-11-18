@@ -15,11 +15,13 @@
 ## 🚀 About Me
 AI/ML enthusiast and educator passionate about making complex technical concepts accessible to everyone. I create content focused on practical implementations of AI technologies, from basic machine learning to advanced LLM applications.
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&theme=dark" alt="GitHub Streak" />
-
 ## 🎥 YouTube Channels
 - [Learn by Doing](https://www.youtube.com/@learnbydoingwithsteven) - Hands-on AI/ML tutorials in English
 - [Steven学以致用](https://www.youtube.com/@Steven学以致用) - Technical content in Chinese
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&theme=dark" alt="GitHub Streak" />
+</p>
 
 ## 🔥 Featured Projects
 
