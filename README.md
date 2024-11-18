@@ -4,6 +4,7 @@
   
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube)](https://www.youtube.com/@learnbydoingwithsteven)
 [![GitHub followers](https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github)](https://github.com/learnbydoingwithsteven)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github)](https://learnbydoingwithsteven.github.io/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/learnbydoing)
 
 </div>
@@ -11,13 +12,40 @@
 ## 🚀 About Me
 AI/ML enthusiast and educator passionate about making complex technical concepts accessible to everyone. I create content focused on practical implementations of AI technologies, from basic machine learning to advanced LLM applications.
 
-## 🎥 YouTube Channels
+## 🎥 Content Channels
+### YouTube
 - [Learn by Doing](https://www.youtube.com/@learnbydoingwithsteven) - Hands-on AI/ML tutorials in English
 - [Steven学以致用](https://www.youtube.com/@Steven学以致用) - Technical content in Chinese
 
+### 🎙️ Podcasts
+- [Learn By Doing with Steven](https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w) - AI/ML insights in English
+- [Steven学以致用](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR) - Technical discussions in Chinese
+- [Learn By Doing](https://creators.spotify.com/pod/show/steven2569) - Additional tech content
+
 ## 🔥 Featured Projects
 <div align="center">
-[![AutoGen Projects](https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark)](https://github.com/learnbydoingwithsteven/Youtube)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark" />
+        <br>
+        <b>AutoGen Research Group Chat</b>
+        <br>
+        Multi-agent system with RAG integration
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark" />
+        <br>
+        <b>Stock News Sentiment Analysis</b>
+        <br>
+        Market analysis with advanced NLP
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ### 📊 Recent Projects
@@ -28,7 +56,7 @@ AI/ML enthusiast and educator passionate about making complex technical concepts
 
 ### 📚 All Projects
 <details>
-<summary>AutoGen Projects</summary>
+<summary>AutoGen & Multi-Agent Systems</summary>
 
 - **[AutoGen Research Group Chat](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Multi-agent research system
 - **[AutoGen Code Generation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Code generation with multiple agents
@@ -36,27 +64,27 @@ AI/ML enthusiast and educator passionate about making complex technical concepts
 </details>
 
 <details>
-<summary>LangChain Projects</summary>
+<summary>Prompt Engineering & LLMs</summary>
 
-- **[Enhanced Prompting](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Advanced prompt engineering
-- **[LangChain Basics](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Foundation concepts
-- **[LangChain RAG](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Retrieval augmented generation
+- **[Enhanced Prompting Techniques](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Advanced prompt engineering
+- **[Local LLM Deployment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests)** - Running models locally
+- **[ChatGPT Analysis](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20chatgpt%20pros%20and%20cons)** - Pros and cons deep dive
 </details>
 
 <details>
 <summary>AI/ML Applications</summary>
 
 - **[Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)** - Market analysis with NLP
-- **[ChatGPT Pros & Cons](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20chatgpt%20pros%20and%20cons)** - Analysis framework
-- **[Local LLM Solutions](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests)** - Local model deployment
+- **[RAG Applications](https://github.com/learnbydoingwithsteven/Youtube/tree/main/rag_applications)** - Practical RAG implementations
+- **[AI-Powered Analytics](https://github.com/learnbydoingwithsteven/Youtube/tree/main/ai_analytics)** - Data analysis with AI
 </details>
 
 <details>
-<summary>Educational Content</summary>
+<summary>Educational Resources</summary>
 
-- **[Python Basics](https://github.com/learnbydoingwithsteven/Youtube/tree/main/python_basics)** - Python programming fundamentals
-- **[AI/ML Tutorials](https://github.com/learnbydoingwithsteven/Youtube/tree/main/ai_ml_tutorials)** - Step-by-step guides
-- **[Code Examples](https://github.com/learnbydoingwithsteven/Youtube/tree/main/code_examples)** - Practical implementations
+- **[Python AI/ML Examples](https://github.com/learnbydoingwithsteven/Youtube/tree/main/python_examples)** - Practical code examples
+- **[Tutorial Projects](https://github.com/learnbydoingwithsteven/Youtube/tree/main/tutorials)** - Step-by-step guides
+- **[Code Templates](https://github.com/learnbydoingwithsteven/Youtube/tree/main/templates)** - Reusable project templates
 </details>
 
 ## 💻 Tech Stack
