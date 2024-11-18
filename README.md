@@ -65,11 +65,29 @@ AI/ML enthusiast and educator passionate about making complex technical concepts
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activities
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&langs_count=7&theme=dark"/>
+  <p>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&theme=dark" />
+  </p>
+  
+  <p>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-contribution-stats.vercel.app/api/?username=learnbydoingwithsteven&theme=dark" />
+  </p>
+
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&theme=react-dark&hide_border=true" />
+  
+  <!-- Repository Cards with Activity -->
+  <p>
+    <a href="https://github.com/learnbydoingwithsteven/Youtube">
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark&show_owner=true" />
+      <img height="120em" src="https://repobeats.axiom.co/api/embed/your-repobeats-hash.svg" />
+    </a>
+  </p>
 </div>
 
 ## 📊 Weekly Coding Stats
@@ -99,9 +117,6 @@ Other        10 mins         █░░░░░░░░░░░░░░░░
 - 📚 Creating educational content on AI/ML
 - 🔧 Building practical applications with latest LLM technologies
 - 🌱 Exploring new ways to make AI accessible to everyone
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=learnbydoingwithsteven&theme=github-dark)
 
 ---
 <div align="center">
