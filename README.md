@@ -2,7 +2,8 @@
 
 <div align="center">
 
-### 🌐 [Visit My Personal Page](https://learnbydoingwithsteven.github.io/)
+### 🌐 [Visit My LinkedTree Page](https://linktr.ee/learnbydoingwithsteven)
+### 🌐 [Visit My Personal Page in Github](https://learnbydoingwithsteven.github.io/)
   
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube)](https://www.youtube.com/@learnbydoingwithsteven)
 [![GitHub followers](https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github)](https://github.com/learnbydoingwithsteven)
