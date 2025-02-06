@@ -27,7 +27,7 @@ AI/ML enthusiast and educator(sharing to be more precise) passionate about makin
 - [Steven学以致用](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR) - Technical discussions in Chinese
 - [Learn By Doing](https://creators.spotify.com/pod/show/steven2569) - Additional tech content
 
-## 🎥
+## 🎥 Posts, Social, Other
 - Substack, Linkedin, RedNote, and other platform links are included in the LinkedTree Page
 
 ## 🔥 Featured Projects
