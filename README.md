@@ -6,7 +6,7 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=firefox)](https://learnbydoingwithsteventest.github.io)
   [![GitHub followers](https://img.shields.io/github/followers/learnbydoingwithsteventest?style=for-the-badge&logo=github)](https://github.com/learnbydoingwithsteventest?tab=followers)
-  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/placeholder)
+  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCpOgO43Ox1ptpElXoh15uDA)
   
 </div>
 
@@ -71,10 +71,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/placeholder)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/placeholder)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/placeholder)
-[![Blog](https://img.shields.io/badge/Blog-Read%20More-orange?style=for-the-badge&logo=medium)](https://blog.placeholder.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/steven-w-6828a31bb/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=x)](https://x.com/Catchingtides)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCpOgO43Ox1ptpElXoh15uDA)
+[![Blog](https://img.shields.io/badge/Blog-Read%20More-orange?style=for-the-badge&logo=substack)](https://substack.com/@steven923044)
 
 </div>
 
