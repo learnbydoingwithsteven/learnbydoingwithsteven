@@ -48,8 +48,9 @@ My content focuses on practical implementations of AI technologies, from basic m
       <ul>
         <li><a href="https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w">Data Talk (EN)</a> - English podcast</li>
         <li><a href="https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR">Steven学以致用</a> - Chinese podcast</li>
-        <li><a href="https://www.ximalaya.com">Data Talk (CN)</a> - 喜马拉雅</li>
-        <li><a href="https://www.ximalaya.com">Steven数据漫谈</a> - 喜马拉雅</li>
+        <li><a href="https://www.ximalaya.com/album/88884765">Data Talk (CN)</a> - 喜马拉雅</li>
+        <li><a href="https://www.ximalaya.com/album/89574928">Steven数据漫谈</a> - 喜马拉雅</li>
+        <li><a href="https://www.ximalaya.com/album/88276097">AI Talk</a> - 喜马拉雅</li>
       </ul>
     </td>
     <td align="center" width="33%">
