@@ -1,34 +1,61 @@
-# 👋 Hi, I'm Steven
-
 <div align="center">
+  <h1>👋 Hi, I'm Steven</h1>
+  <h3>AI • ML • Learning-by-doing</h3>
+  <p>Turning complex ideas into hands-on tutorials in 🇬🇧&nbsp;/&nbsp;🇨🇳</p>
 
-### 🌐 [Visit My LinkedTree Page](https://linktr.ee/learnbydoingwithsteven)
-### 🌐 [Visit My Personal Page in Github](https://learnbydoingwithsteven.github.io/)
-  
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube)](https://www.youtube.com/@learnbydoingwithsteven)
-[![GitHub followers](https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github)](https://github.com/learnbydoingwithsteven)
-[![Personal Page](https://img.shields.io/badge/Personal_Page-Visit_Now-blue?style=for-the-badge&logo=github)](https://learnbydoingwithsteven.github.io/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/learnbydoing)
-
+  <p>
+    <a href="https://www.youtube.com/@learnbydoingwithsteven"><img src="https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
+    <a href="https://github.com/learnbydoingwithsteven"><img src="https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github" alt="GitHub followers"></a>
+    <a href="https://learnbydoingwithsteven.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github" alt="Portfolio"></a>
+    <a href="https://buymeacoffee.com/learnbydoing"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+    <a href="https://linktr.ee/learnbydoingwithsteven"><img src="https://img.shields.io/badge/LinkTree-Links-%230A66C2?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"></a>
+  </p>
 </div>
 
+---
+
 ## 🚀 About Me
-AI/ML enthusiast and educator(sharing to be more precise) passionate about making complex technical concepts accessible to everyone. I create content focused on practical implementations of AI technologies, from basic machine learning to advanced LLM applications.
+
+I'm an **AI/ML educator and builder** passionate about making complex technical concepts accessible to everyone through hands-on projects. I believe the best way to learn is by doing - applying concepts directly to real-world problems.
+
+My content focuses on practical implementations of AI technologies, from basic machine learning to advanced LLM applications like LangChain, AutoGen, and RAG systems.
+
+```yaml
+🌱 What I Do:
+  - Create practical AI/ML tutorials with real-world applications
+  - Build open-source projects focused on emerging technologies
+  - Share knowledge in both English and Chinese content
+  - Focus on LangChain, AutoGen, RAG, and local LLM deployments
+```
 
 > 🎥 *Need a break from coding? Check out my [4K drone videos](https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug) for some relaxing aerial views!*
 
-## 🎥 Content Channels
-### YouTube
-- [Learn by Doing](https://www.youtube.com/@learnbydoingwithsteven) - Hands-on AI/ML tutorials in English
-- [Steven学以致用](https://www.youtube.com/@Steven学以致用) - Technical content in Chinese
+## 📢 Content Channels
 
-### 🎙️ Podcasts
-- [Learn By Doing with Steven](https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w) - AI/ML insights in English
-- [Steven学以致用](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR) - Technical discussions in Chinese
-- [Learn By Doing](https://creators.spotify.com/pod/show/steven2569) - Additional tech content
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📺 Video Content</h3>
+      <ul>
+        <li><a href="https://www.youtube.com/@learnbydoingwithsteven">Learn by Doing</a> - AI/ML tutorials in English</li>
+        <li><a href="https://www.youtube.com/@Steven学以致用">Steven学以致用</a> - Technical content in Chinese</li>
+        <li><a href="https://www.tiktok.com/@learn.by.doing4">TikTok</a> - Quick tech tips and snippets</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎙️ Audio & Written Content</h3>
+      <ul>
+        <li><a href="https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w">Learn By Doing with Steven</a> - English podcast</li>
+        <li><a href="https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR">Steven学以致用</a> - Chinese podcast</li>
+        <li><a href="https://substack.com/@steven923044">Substack</a> - In-depth articles and tutorials</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 🎥 Posts, Social, Other
-- Substack, Linkedin, RedNote, and other platform links are included in the LinkedTree Page
+<p align="center">
+  <i>Additional platforms and content are available on my <a href="https://linktr.ee/learnbydoingwithsteven">LinkTree page</a></i>
+</p>
 
 ## 🔥 Featured Projects
 <div align="center">
@@ -127,16 +154,16 @@ AI/ML enthusiast and educator(sharing to be more precise) passionate about makin
 
 <div align="center">
   <p>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&theme=dark" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&theme=radical&hide_border=true" />
   </p>
   
   <p>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
   </p>
 
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&theme=react-dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&theme=redical&hide_border=true" />
 </div>
 
 ## 📊 Weekly Coding Stats
@@ -153,11 +180,12 @@ Other        10 mins         █░░░░░░░░░░░░░░░░
 ## 🌐 Connect With Me
 <div align="center">
   
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnbydoingwithsteven)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TyDaMKAV)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@learn.by.doing4)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://spotifyanchor-web.app.link/e/ZHi3LoLHZNb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Catchingtides)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@learn.by.doing4)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://spotifyanchor-web.app.link/e/ZHi3LoLHZNb)
 
 </div>
 
@@ -171,5 +199,6 @@ Other        10 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=learnbydoingwithsteven&color=blueviolet&style=for-the-badge" alt="Profile Views">
   
-  ⭐️ From [learnbydoingwithsteven](https://github.com/learnbydoingwithsteven)
+  <p>⭐️ From <a href="https://github.com/learnbydoingwithsteven">learnbydoingwithsteven</a></p>
+  <p>☕ <a href="https://buymeacoffee.com/learnbydoing">Buy me a coffee</a> if you find my content helpful!</p>
 </div>
