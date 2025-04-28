@@ -7,8 +7,8 @@
     <a href="https://www.youtube.com/@learnbydoingwithsteven"><img src="https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
     <a href="https://github.com/learnbydoingwithsteven"><img src="https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github" alt="GitHub followers"></a>
     <a href="https://learnbydoingwithsteven.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github" alt="Portfolio"></a>
-    <a href="https://buymeacoffee.com/learnbydoing"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
     <a href="https://linktr.ee/learnbydoingwithsteven"><img src="https://img.shields.io/badge/LinkTree-Links-%230A66C2?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"></a>
+    <a href="https://buymeacoffee.com/learnbydoing"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   </p>
 </div>
 
@@ -34,92 +34,146 @@ My content focuses on practical implementations of AI technologies, from basic m
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3>📺 Video Content</h3>
       <ul>
-        <li><a href="https://www.youtube.com/@learnbydoingwithsteven">Learn by Doing</a> - AI/ML tutorials in English</li>
-        <li><a href="https://www.youtube.com/@Steven学以致用">Steven学以致用</a> - Technical content in Chinese</li>
-        <li><a href="https://www.tiktok.com/@learn.by.doing4">TikTok</a> - Quick tech tips and snippets</li>
+        <li><a href="https://www.youtube.com/@learnbydoingwithsteven">Learn by Doing</a> - English tutorials</li>
+        <li><a href="https://www.youtube.com/@Steven学以致用">Steven学以致用</a> - Chinese tutorials</li>
+        <li><a href="https://www.tiktok.com/@learn.by.doing4">TikTok</a> - Quick tech tips</li>
+        <li><a href="https://www.youtube.com">Steven On The Road</a> - 4K drone videos</li>
       </ul>
     </td>
-    <td align="center" width="50%">
-      <h3>🎙️ Audio & Written Content</h3>
+    <td align="center" width="33%">
+      <h3>🎙️ Audio Content</h3>
       <ul>
-        <li><a href="https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w">Learn By Doing with Steven</a> - English podcast</li>
+        <li><a href="https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w">Data Talk (EN)</a> - English podcast</li>
         <li><a href="https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR">Steven学以致用</a> - Chinese podcast</li>
-        <li><a href="https://substack.com/@steven923044">Substack</a> - In-depth articles and tutorials</li>
+        <li><a href="https://www.ximalaya.com">Data Talk (CN)</a> - 喜马拉雅</li>
+        <li><a href="https://www.ximalaya.com">Steven数据漫谈</a> - 喜马拉雅</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>✍️ Written Content</h3>
+      <ul>
+        <li><a href="https://substack.com/@steven923044">Substack</a> - In-depth articles</li>
+        <li><a href="https://learnbydoingwithsteven.bearblog.dev">Bear Blog</a> - Tech notes</li>
+        <li><a href="https://www.linkedin.com">LinkedIn Newsletter</a> - Pro content</li>
+        <li><a href="https://mp.weixin.qq.com">微信公众号</a> - Chinese articles</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <i>Additional platforms and content are available on my <a href="https://linktr.ee/learnbydoingwithsteven">LinkTree page</a></i>
-</p>
+<div align="center">
+  <h3>🌐 Social Media & Community</h3>
+  <p>
+    <a href="https://www.xiaohongshu.com">小红书</a> • 
+    <a href="https://www.linkedin.com/in/steven-w-6828a31bb/">LinkedIn</a> • 
+    <a href="https://x.com/Catchingtides">Twitter/X</a> • 
+    <a href="https://www.facebook.com">Facebook</a> • 
+    <a href="https://www.instagram.com">Instagram</a> • 
+    <a href="https://t.me">Telegram Channel</a> • 
+    <a href="https://www.whatsapp.com">WhatsApp Channel</a> • 
+    <a href="https://discord.gg/TyDaMKAV">Discord</a>
+  </p>
+</div>
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
+
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark" />
+      <a href="https://github.com/learnbydoingwithsteven/rag_chat_with_ds_streamlit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=rag_chat_with_ds_streamlit&theme=radical&hide_border=true" />
         <br>
-        <b>AutoGen Research Group Chat</b>
+        <b>Multilingual RAG Chatbot</b>
         <br>
-        Multi-agent system with RAG integration
+        Advanced RAG system with Groq & Ollama integration
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=dark" />
+      <a href="https://github.com/learnbydoingwithsteven/Youtube">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=Youtube&theme=radical&hide_border=true" />
         <br>
-        <b>Stock News Sentiment Analysis</b>
+        <b>YouTube Tutorial Projects</b>
         <br>
-        Market analysis with advanced NLP
+        400+ AI/ML projects across multiple domains
       </a>
     </td>
   </tr>
 </table>
 </div>
 
-### 📊 Recent Projects
-- **[AutoGen Research Group Chat](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Multi-agent system for complex business scenarios
-- **[Enhanced Prompting](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Advanced prompt engineering techniques
-- **[Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)** - Market analysis with NLP
-- **[Local LLM Solutions](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests)** - Deployment of local language models
+### 🔍 Highlighted Projects
 
-### 📚 All Projects
-<details>
-<summary>AutoGen & Multi-Agent Systems</summary>
+| Category | Projects |
+|----------|----------|
+| **🤖 RAG Systems** | [Multilingual RAG Chatbot](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_streamlit) • [React RAG Implementation](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_react) • [Web RAG with Ollama](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241121_web_rag_ollama_json_ok) |
+| **🧠 Agent Systems** | [AutoGen Research Agents](https://github.com/learnbydoingwithsteven/Autogen_Agents) • [Crew AI Agents](https://github.com/learnbydoingwithsteven/Crew_AI_Agents) • [Finance Analysis with Agents](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240909_CREWAI_FI_ANALYSIS) |
+| **🔬 LLM Testing** | [Local Chat Bot](https://github.com/learnbydoingwithsteven/Local_Chat_Bot) • [Model Tests](https://github.com/learnbydoingwithsteven/Model_Tests) • [LLAMA 3.2 Evaluation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests) |
+| **📊 Financial Analysis** | [Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis) • [Banking Simulation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240915%20bank%20simulation) • [Intrinsic Value Calculation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240429_stock_intrinsic_value_calculation) |
 
-- **[AutoGen Research Group Chat](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Multi-agent research system
-- **[AutoGen Code Generation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Code generation with multiple agents
-- **[AutoGen RAG Integration](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - RAG-enhanced group chat
+## 📚 Project Categories
+
+<details open>
+<summary><b>🤖 AI Agent Systems</b></summary>
+
+- **[AutoGen Agents](https://github.com/learnbydoingwithsteven/Autogen_Agents)** - Multi-agent systems for complex tasks
+- **[Crew AI Agents](https://github.com/learnbydoingwithsteven/Crew_AI_Agents)** - Specialized AI agent frameworks
+- **[Research Group Chat](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - AutoGen implementation for business scenarios
+- **[Nested Chat Implementation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240906_autogen_nested_chat)** - Advanced conversation structures
+- **[Code Executors](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240501_autogen_code_executors)** - Agent-driven code generation
+</details>
+
+<details open>
+<summary><b>🔍 RAG Systems & Knowledge Retrieval</b></summary>
+
+- **[RAG Chat with Data Science (Streamlit)](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_streamlit)** - Full RAG implementation with Groq/Ollama
+- **[RAG Chat with Data Science (React)](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_react)** - Modern React frontend for RAG systems
+- **[Web RAG with Ollama](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241121_web_rag_ollama_json_ok)** - Using web content for RAG
+- **[AutoGen RAG Integration](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** - Combining agents with RAG
 </details>
 
 <details>
-<summary>Prompt Engineering & LLMs</summary>
+<summary><b>🧪 LLM Testing & Local Deployment</b></summary>
 
-- **[Enhanced Prompting Techniques](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20prompt%20enhanced%20road%20to%20langchain)** - Advanced prompt engineering
-- **[Local LLM Deployment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests)** - Running models locally
-- **[ChatGPT Analysis](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240509%20chatgpt%20pros%20and%20cons)** - Pros and cons deep dive
+- **[Local Chat Bot](https://github.com/learnbydoingwithsteven/Local_Chat_Bot)** - Self-hosted LLM interface
+- **[Model Tests](https://github.com/learnbydoingwithsteven/Model_Tests)** - Testing open-source AI models
+- **[LLAMA 3.2 Tests](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests)** - Performance evaluation of LLAMA models
+- **[Ollama LOR Analysis](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241001%20ollama%20lor%20ending%20analysis)** - Text analysis with Ollama
+- **[GPT4 Testing](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240913_gpt4o_test)** - Evaluation of GPT-4 capabilities
+- **[Hugging Face Models](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241029_hugg_model_test)** - Testing Hugging Face models
 </details>
 
 <details>
-<summary>AI/ML Applications</summary>
+<summary><b>📊 Financial Analysis & Simulation</b></summary>
 
-- **[Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)** - Market analysis with NLP
-- **[RAG Applications](https://github.com/learnbydoingwithsteven/Youtube/tree/main/rag_applications)** - Practical RAG implementations
-- **[AI-Powered Analytics](https://github.com/learnbydoingwithsteven/Youtube/tree/main/ai_analytics)** - Data analysis with AI
+- **[Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)** - NLP-based market analysis
+- **[Bank Simulation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240915%20bank%20simulation)** - Complete banking system simulation
+- **[Stock Analysis Reports](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240502%20stock%20analysis%20report%20basic%20version)** - Fundamental analysis tools
+- **[Intrinsic Value Calculation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240429_stock_intrinsic_value_calculation)** - Stock valuation models
+- **[Financial Visualization](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240429_Code_with_GPT_Stock_Price_Visualization)** - Interactive price visualization
+- **[Workflow Simulations](https://github.com/learnbydoingwithsteven/workflow_simulations)** - Business process simulations
 </details>
 
 <details>
-<summary>Educational Resources</summary>
+<summary><b>🧮 Machine Learning & Deep Learning</b></summary>
 
-- **[Python AI/ML Examples](https://github.com/learnbydoingwithsteven/Youtube/tree/main/python_examples)** - Practical code examples
-- **[Tutorial Projects](https://github.com/learnbydoingwithsteven/Youtube/tree/main/tutorials)** - Step-by-step guides
-- **[Code Templates](https://github.com/learnbydoingwithsteven/Youtube/tree/main/templates)** - Reusable project templates
+- **[Python Data Analysis](https://github.com/learnbydoingwithsteven/Python_Data_Analysis)** - Data analysis frameworks
+- **[ANN Simulations](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241022_ann_simulations)** - Neural network implementations
+- **[Weather Forecast Models](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240912_Weather_Forcast_3_models)** - Comparative ML approaches
+- **[Transformer Playground](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240915_datatalkep2_numpy_transformerplayground)** - Transformer architecture experiments
+- **[GPT2 and BERT](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240913_transformer_gpt2_bert)** - Comparing model architectures
+</details>
+
+<details>
+<summary><b>📚 Educational Series</b></summary>
+
+- **[AI Research](https://github.com/learnbydoingwithsteven/AI_Research)** - Advanced AI research topics
+- **[Data Talk Series](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240915_datatalkep1_dsccourse_dstools)** - Data science educational content
+- **[Podcast Content](https://github.com/learnbydoingwithsteven/podcast)** - AI/ML podcast materials
+- **[YouTube Tutorials](https://github.com/learnbydoingwithsteven/Youtube)** - Complete collection of tutorial projects
 </details>
 
 ## 💻 Tech Stack
