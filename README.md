@@ -1,124 +1,108 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/learnbydoingwithsteven/learnbydoingwithsteven.github.io/main/assets/profile-banner.png" alt="Steven's Profile Banner" width="100%">
-</div>
 
-<div align="center">
   <h1>👋 Hi, I'm Steven</h1>
   <h3>AI • ML • Learning-by-doing</h3>
   <p>Turning complex ideas into hands-on tutorials in 🇬🇧&nbsp;/&nbsp;🇨🇳</p>
 
-  <div class="badges">
+  <p>
     <a href="https://www.youtube.com/@learnbydoingwithsteven"><img src="https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
     <a href="https://github.com/learnbydoingwithsteven"><img src="https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github" alt="GitHub followers"></a>
     <a href="https://learnbydoingwithsteven.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github" alt="Portfolio"></a>
     <a href="https://linktr.ee/learnbydoingwithsteven"><img src="https://img.shields.io/badge/LinkTree-Links-%230A66C2?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"></a>
     <a href="https://buymeacoffee.com/learnbydoing"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-  </div>
-</div>
+  </p>
 
-<div align="center">
   <img src="https://raw.githubusercontent.com/learnbydoingwithsteven/learnbydoingwithsteven.github.io/main/assets/divider.png" alt="divider" width="100%">
 </div>
 
 ## 🚀 About Me
 
-<div class="about-section">
-  <div class="about-content">
-    <p>I'm an <strong>AI/ML educator and builder</strong> passionate about making complex technical concepts accessible to everyone through hands-on projects. I believe the best way to learn is by doing - applying concepts directly to real-world problems.</p>
+I'm an **AI/ML educator and builder** passionate about making complex technical concepts accessible to everyone through hands-on projects. I believe the best way to learn is by doing - applying concepts directly to real-world problems.
 
-    <p>My content focuses on practical implementations of AI technologies, from basic machine learning to advanced LLM applications like LangChain, AutoGen, and RAG systems.</p>
-  </div>
-</div>
+My content focuses on practical implementations of AI technologies, from basic machine learning to advanced LLM applications like LangChain, AutoGen, and RAG systems.
 
-<div class="what-i-do">
-  <h3>🌱 What I Do</h3>
-  <ul>
-    <li>Create practical AI/ML tutorials with real-world applications</li>
-    <li>Build open-source projects focused on emerging technologies</li>
-    <li>Share knowledge in both English and Chinese content</li>
-    <li>Focus on LangChain, AutoGen, RAG, and local LLM deployments</li>
-  </ul>
-</div>
+### 🌱 What I Do
 
-<div class="highlight-box">
-  <p>🎥 <em>Need a break from coding? Check out my <a href="https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug">4K drone videos</a> for some relaxing aerial views!</em></p>
-</div>
+* Create practical AI/ML tutorials with real-world applications
+* Build open-source projects focused on emerging technologies
+* Share knowledge in both English and Chinese content
+* Focus on LangChain, AutoGen, RAG, and local LLM deployments
+
+> 🎥 *Need a break from coding? Check out my [4K drone videos](https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug) for some relaxing aerial views!*
 
 ## 📢 Content Channels
 
-<div class="content-channels">
-  <div class="channel-grid">
-    <div class="channel-card">
-      <h3>📺 Video Content</h3>
-      <ul>
-        <li><a href="https://www.youtube.com/@learnbydoingwithsteven">Learn by Doing</a> - English tutorials</li>
-        <li><a href="https://www.youtube.com/@Steven学以致用">Steven学以致用</a> - Chinese tutorials</li>
-        <li><a href="https://www.tiktok.com/@learn.by.doing4">TikTok</a> - Quick tech tips</li>
-        <li><a href="https://www.youtube.com">Steven On The Road</a> - 4K drone videos</li>
-      </ul>
-    </div>
-    
-    <div class="channel-card">
-      <h3>🎤️ Audio Content</h3>
-      <ul>
-        <li><a href="https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR">Data Talk (EN)</a> - English podcast</li>
-        <li><a href="https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w">Steven数据漫谈</a> - Chinese podcast</li>
-        <li><a href="https://www.ximalaya.com/album/88884765">Data Talk (CN)</a> - 喜马拉雅</li>
-        <li><a href="https://www.ximalaya.com/album/89574928">Steven数据漫谈</a> - 喜马拉雅</li>
-        <li><a href="https://www.ximalaya.com/album/88276097">AI Talk</a> - 喜马拉雅</li>
-      </ul>
-    </div>
-    
-    <div class="channel-card">
-      <h3>✍️ Written Content</h3>
-      <ul>
-        <li><a href="https://substack.com/@steven923044">Substack</a> - In-depth articles</li>
-        <li><a href="https://learnbydoingwithsteven.bearblog.dev">Bear Blog</a> - Tech notes</li>
-        <li><a href="https://www.linkedin.com">LinkedIn Newsletter</a> - Pro content</li>
-        <li><a href="https://mp.weixin.qq.com">微信公众号</a> - Chinese articles</li>
-      </ul>
-    </div>
-  </div>
-</div>
+### 📺 Video Content
 
-<div align="center">
-  <h3>🌐 Social Media & Community</h3>
-  <p>
-    <a href="https://www.xiaohongshu.com">小红书</a> • 
-    <a href="https://www.linkedin.com/in/steven-w-6828a31bb/">LinkedIn</a> • 
-    <a href="https://x.com/Catchingtides">Twitter/X</a> • 
-    <a href="https://www.facebook.com">Facebook</a> • 
-    <a href="https://www.instagram.com">Instagram</a> • 
-    <a href="https://t.me">Telegram Channel</a> • 
-    <a href="https://www.whatsapp.com">WhatsApp Channel</a> • 
-    <a href="https://discord.gg/TyDaMKAV">Discord</a>
-  </p>
-</div>
+* [Learn by Doing](https://www.youtube.com/@learnbydoingwithsteven) - English tutorials
+* [Steven学以致用](https://www.youtube.com/@Steven学以致用) - Chinese tutorials
+* [TikTok](https://www.tiktok.com/@learn.by.doing4) - Quick tech tips
+* [Steven On The Road](https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug) - 4K drone videos
+
+### 🎤️ Audio Content
+
+* [Data Talk (EN)](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR) - English podcast
+* [Steven数据漫谈](https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w) - Chinese podcast
+* [Data Talk (CN)](https://www.ximalaya.com/album/88884765) - 喜马拉雅
+* [Steven数据漫谈](https://www.ximalaya.com/album/89574928) - 喜马拉雅
+* [AI Talk](https://www.ximalaya.com/album/88276097) - 喜马拉雅
+
+### ✍️ Written Content
+
+* [Substack](https://substack.com/@steven923044) - In-depth articles
+* [Bear Blog](https://learnbydoingwithsteven.bearblog.dev) - Tech notes
+* [LinkedIn Newsletter](https://www.linkedin.com) - Pro content
+* [微信公众号](https://mp.weixin.qq.com) - Chinese articles
+
+## 🌐 Social Media & Community
+
+[小红书](https://www.xiaohongshu.com) • 
+[LinkedIn](https://www.linkedin.com/in/steven-w-6828a31bb/) • 
+[Twitter/X](https://x.com/Catchingtides) • 
+[Facebook](https://www.facebook.com) • 
+[Instagram](https://www.instagram.com) • 
+[Telegram Channel](https://t.me) • 
+[WhatsApp Channel](https://www.whatsapp.com) • 
+[Discord](https://discord.gg/TyDaMKAV)
 
 ## 🚀 Featured Projects
 
 My projects are organized into several categories, reflecting my focus on AI agent frameworks, RAG systems, and data science. Below is a curated list of my key repositories.
 
 ### 🤖 AI Agent Frameworks
-*Projects exploring multi-agent systems and frameworks for complex task automation.*
-- **[Autogen_Agents](https://github.com/learnbydoingwithsteven/Autogen_Agents)**: Experiments with Microsoft's AutoGen for building conversational AI agents.
-- **[Crew_AI_Agents](https://github.com/learnbydoingwithsteven/Crew_AI_Agents)**: Role-playing, autonomous AI agents orchestrated with CrewAI for specialized tasks.
+
+*Projects focused on building and extending AI agent frameworks.*
+
+- **[Autogen_Agents](https://github.com/learnbydoingwithsteven/Autogen_Agents)**: Implementations and extensions of Microsoft's AutoGen framework for multi-agent systems.
+- **[Crew_AI_Agents](https://github.com/learnbydoingwithsteven/Crew_AI_Agents)**: Experiments with the Crew AI framework for collaborative agent systems.
 - **[agentic_dashboard_app](https://github.com/learnbydoingwithsteven/agentic_dashboard_app)**: An interactive Streamlit dashboard for managing and monitoring AI agentic workflows.
+- **[AI_Research](https://github.com/learnbydoingwithsteven/AI_Research)**: Research projects exploring cutting-edge AI technologies and applications.
+- **[Model_Tests](https://github.com/learnbydoingwithsteven/Model_Tests)**: Comprehensive testing and benchmarking of various AI models.
+- **[Local_Chat_Bot](https://github.com/learnbydoingwithsteven/Local_Chat_Bot)**: Implementation of locally-run chatbots using open-source models.
+- **[workflow_simulations](https://github.com/learnbydoingwithsteven/workflow_simulations)**: Simulations of AI-powered workflow automation systems.
 
 ### 💬 RAG & Chat Applications
 *Applications demonstrating Retrieval-Augmented Generation for enhanced chatbot performance.*
+
 - **[rag_chat_with_ds_streamlit](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_streamlit)**: A comprehensive, multilingual RAG system with Streamlit, supporting Groq, Ollama, and vector databases.
 - **[rag_chat_with_ds_react](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_react)**: A RAG implementation with a modern React frontend and a FastAPI backend.
-- **[Local_Chat_Bot](https://github.com/learnbydoingwithsteven/Local_Chat_Bot)**: A privacy-focused chatbot that runs entirely on your local machine using Ollama.
+- **[Web RAG with Ollama](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241121_web_rag_ollama_json_ok)**: Using web content for RAG.
+- **[AutoGen RAG Integration](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)**: Combining agents with RAG.
 
 ### 📊 Data Science & NLP
 *Projects focused on data analysis, visualization, and natural language processing.*
-- **[Python_Data_Analysis](https://github.com/learnbydoingwithsteven/Python_Data_Analysis)**: A collection of notebooks for data analysis with Pandas, NumPy, and Matplotlib.
+
+- **[nlp](https://github.com/learnbydoingwithsteven/nlp)**: Natural language processing experiments and implementations for various text analysis tasks.
+- **[Python_Data_Analysis](https://github.com/learnbydoingwithsteven/Python_Data_Analysis)**: A collection of Python scripts and notebooks for data analysis and visualization.
+- **[Stock Market Analysis](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)**: Sentiment analysis of financial news.
+- **[Weather Forecast Models](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240912_Weather_Forcast_3_models)**: Comparative ML approaches for weather prediction.
 - **[agentic_datascience_tool](https://github.com/learnbydoingwithsteven/agentic_datascience_tool)**: A tool that leverages AI agents to automate data science tasks like cleaning and model building.
 - **[nlp](https://github.com/learnbydoingwithsteven/nlp)**: Implementations of NLP tasks, including sentiment analysis, text summarization, and NER.
 
 ### 🎓 YouTube Tutorial Projects
 *A comprehensive collection of all projects featured in my YouTube tutorials.*
+
 - **[Youtube](https://github.com/learnbydoingwithsteven/Youtube)**: Contains all code from my English and Chinese YouTube channels, covering a wide range of AI/ML topics.
 
 > ✨ *Visit my [**portfolio website**](https://learnbydoingwithsteven.github.io/) for a more interactive and detailed view of my projects!*
