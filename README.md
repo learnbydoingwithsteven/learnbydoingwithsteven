@@ -1,19 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/learnbydoingwithsteven/learnbydoingwithsteven.github.io/main/assets/profile-banner.png" alt="Steven's Profile Banner" width="100%">
 
   <h1>👋 Hi, I'm Steven</h1>
   <h3>AI • ML • Learning-by-doing</h3>
   <p>Turning complex ideas into hands-on tutorials in 🇬🇧&nbsp;/&nbsp;🇨🇳</p>
 
   <p>
-    <a href="https://www.youtube.com/@learnbydoingwithsteven"><img src="https://img.shields.io/youtube/channel/subscribers/UCwEHB5MRNK5q_wXjNVtQ2Qw?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
+    <a href="https://www.youtube.com/@learnbydoingwithsteven"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube Channel"></a>
     <a href="https://github.com/learnbydoingwithsteven"><img src="https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github" alt="GitHub followers"></a>
     <a href="https://learnbydoingwithsteven.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github" alt="Portfolio"></a>
     <a href="https://linktr.ee/learnbydoingwithsteven"><img src="https://img.shields.io/badge/LinkTree-Links-%230A66C2?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"></a>
     <a href="https://buymeacoffee.com/learnbydoing"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   </p>
 
-  <img src="https://raw.githubusercontent.com/learnbydoingwithsteven/learnbydoingwithsteven.github.io/main/assets/divider.png" alt="divider" width="100%">
+  <hr style="border: 1px solid #ddd; margin: 30px 0;">
 </div>
 
 ## 🚀 About Me
