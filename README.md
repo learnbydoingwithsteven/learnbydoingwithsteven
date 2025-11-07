@@ -159,14 +159,17 @@
 
 <div align="center">
 
+[![YouTube](https://img.shields.io/badge/YouTube_🇬🇧-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@learnbydoingwithsteven)
+[![YouTube](https://img.shields.io/badge/YouTube_🇨🇳-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Steven学以致用)
+[![Spotify](https://img.shields.io/badge/Spotify_🇬🇧-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR)
+[![Spotify](https://img.shields.io/badge/Spotify_🇨🇳-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w)
+[![喜马拉雅](https://img.shields.io/badge/喜马拉雅-FF6600?style=flat-square&logo=podcast&logoColor=white)](https://www.ximalaya.com/album/88884765)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/TyDaMKAV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Catchingtides)
-[![小红书](https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.whatsapp.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@learn.by.doing4)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@steven923044)
+[![Bear Blog](https://img.shields.io/badge/Bear_Blog-E03C8A?style=flat-square&logo=rss&logoColor=white)](https://learnbydoingwithsteven.bearblog.dev)
 
 </div>
 
@@ -419,12 +422,14 @@ Other        10 mins         █░░░░░░░░░░░░░░░░
 
 ### Find Me On
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@learnbydoingwithsteven)
+[![YouTube](https://img.shields.io/badge/YouTube_🇬🇧-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@learnbydoingwithsteven)
+[![YouTube](https://img.shields.io/badge/YouTube_🇨🇳-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Steven学以致用)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/TyDaMKAV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Catchingtides)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@learn.by.doing4)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://spotifyanchor-web.app.link/e/ZHi3LoLHZNb)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@steven923044)
 
 <br>
 
