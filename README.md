@@ -15,6 +15,32 @@
   <hr style="border: 1px solid #ddd; margin: 30px 0;">
 </div>
 
+## 📑 Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [📢 Content Channels](#-content-channels)
+- [🌐 Social Media & Community](#-social-media--community)
+- [🚀 Featured Projects](#-featured-projects)
+- [📚 Project Categories](#-project-categories)
+- [💻 Tech Stack](#-tech-stack)
+- [📈 GitHub Stats & Activities](#-github-stats--activities)
+- [🎯 Current Focus](#-current-focus)
+- [🌐 Connect With Me](#-connect-with-me)
+
+---
+
+## 🔗 Quick Links
+
+<div align="center">
+
+| 🎬 Main Channel | 🌐 Portfolio | 💬 Community | ☕ Support |
+|:---:|:---:|:---:|:---:|
+| [YouTube](https://www.youtube.com/@learnbydoingwithsteven) | [Website](https://learnbydoingwithsteven.github.io/) | [Discord](https://discord.gg/TyDaMKAV) | [Buy Me Coffee](https://buymeacoffee.com/learnbydoing) |
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm an **AI/ML educator and builder** passionate about making complex technical concepts accessible to everyone through hands-on projects. I believe the best way to learn is by doing - applying concepts directly to real-world problems.
@@ -23,12 +49,41 @@ My content focuses on practical implementations of AI technologies, from basic m
 
 ### 🌱 What I Do
 
-* Create practical AI/ML tutorials with real-world applications
-* Build open-source projects focused on emerging technologies
-* Share knowledge in both English and Chinese content
-* Focus on LangChain, AutoGen, RAG, and local LLM deployments
+<table>
+<tr>
+<td width="50%">
+
+✨ **Content Creation**
+- Practical AI/ML tutorials with real-world applications
+- Bilingual content in English 🇬🇧 and Chinese 🇨🇳
+- Video tutorials, podcasts, and written articles
+
+</td>
+<td width="50%">
+
+🛠️ **Technology Focus**
+- LangChain & AutoGen implementations
+- RAG systems and local LLM deployments
+- Data Science and NLP applications
+- AI Agent frameworks and workflows
+
+</td>
+</tr>
+</table>
+
+### 🏆 Highlights
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/learnbydoingwithsteven?style=social)
+![GitHub stars](https://img.shields.io/github/stars/learnbydoingwithsteven?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgRd8EgI7hZ5VXm4wHMxKyQ?style=social)
+
+</div>
 
 > 🎥 *Need a break from coding? Check out my [4K drone videos](https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug) for some relaxing aerial views!*
+
+---
 
 ## 📢 Content Channels
 
@@ -54,6 +109,8 @@ My content focuses on practical implementations of AI technologies, from basic m
 * [LinkedIn Newsletter](https://www.linkedin.com) - Pro content
 * [微信公众号](https://mp.weixin.qq.com) - Chinese articles
 
+---
+
 ## 🌐 Social Media & Community
 
 [小红书](https://www.xiaohongshu.com) • 
@@ -64,6 +121,8 @@ My content focuses on practical implementations of AI technologies, from basic m
 [Telegram Channel](https://t.me) • 
 [WhatsApp Channel](https://www.whatsapp.com) • 
 [Discord](https://discord.gg/TyDaMKAV)
+
+---
 
 ## 🚀 Featured Projects
 
@@ -97,7 +156,6 @@ My projects are organized into several categories, reflecting my focus on AI age
 - **[Stock Market Analysis](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)**: Sentiment analysis of financial news.
 - **[Weather Forecast Models](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240912_Weather_Forcast_3_models)**: Comparative ML approaches for weather prediction.
 - **[agentic_datascience_tool](https://github.com/learnbydoingwithsteven/agentic_datascience_tool)**: A tool that leverages AI agents to automate data science tasks like cleaning and model building.
-- **[nlp](https://github.com/learnbydoingwithsteven/nlp)**: Implementations of NLP tasks, including sentiment analysis, text summarization, and NER.
 
 ### 🎓 YouTube Tutorial Projects
 *A comprehensive collection of all projects featured in my YouTube tutorials.*
@@ -105,6 +163,8 @@ My projects are organized into several categories, reflecting my focus on AI age
 - **[Youtube](https://github.com/learnbydoingwithsteven/Youtube)**: Contains all code from my English and Chinese YouTube channels, covering a wide range of AI/ML topics.
 
 > ✨ *Visit my [**portfolio website**](https://learnbydoingwithsteven.github.io/) for a more interactive and detailed view of my projects!*
+
+---
 
 ## 📚 Project Categories
 
@@ -168,7 +228,11 @@ My projects are organized into several categories, reflecting my focus on AI age
 - **[YouTube Tutorials](https://github.com/learnbydoingwithsteven/Youtube)** - Complete collection of tutorial projects
 </details>
 
+---
+
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -196,6 +260,10 @@ My projects are organized into several categories, reflecting my focus on AI age
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
+</div>
+
+---
+
 ## 📈 GitHub Stats & Activities
 
 <div align="center">
@@ -209,7 +277,7 @@ My projects are organized into several categories, reflecting my focus on AI age
   </p>
 
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&theme=redical&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&theme=radical&hide_border=true" />
 </div>
 
 ## 📊 Weekly Coding Stats
@@ -223,6 +291,8 @@ Other        10 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+---
+
 ## 🌐 Connect With Me
 <div align="center">
   
@@ -235,16 +305,33 @@ Other        10 mins         █░░░░░░░░░░░░░░░░
 
 </div>
 
+---
+
 ## 🎯 Current Focus
-- 🤖 Developing advanced AutoGen implementations
-- 📚 Creating educational content on AI/ML
-- 🔧 Building practical applications with latest LLM technologies
-- 🌱 Exploring new ways to make AI accessible to everyone
+
+<div align="center">
+
+| 🤖 **AI Development** | 📚 **Education** | 🔧 **Building** | 🌱 **Exploration** |
+|:---:|:---:|:---:|:---:|
+| Advanced AutoGen<br/>implementations | Educational content<br/>on AI/ML | Practical LLM<br/>applications | Making AI<br/>accessible |
+
+</div>
 
 ---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=learnbydoingwithsteven&color=blueviolet&style=for-the-badge" alt="Profile Views">
-  
-  <p>⭐️ From <a href="https://github.com/learnbydoingwithsteven">learnbydoingwithsteven</a></p>
-  <p>☕ <a href="https://buymeacoffee.com/learnbydoing">Buy me a coffee</a> if you find my content helpful!</p>
+
+### 💝 Support My Work
+
+If you find my content helpful, consider supporting me!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/learnbydoing)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=learnbydoingwithsteven&color=blueviolet&style=for-the-badge" alt="Profile Views">
+
+<p>⭐️ Made with ❤️ by <a href="https://github.com/learnbydoingwithsteven">learnbydoingwithsteven</a></p>
+<p><sub>Last updated: 2025</sub></p>
+
 </div>

@@ -1,5 +1,41 @@
 # Changelog
 
+## v1.2.0 - Enhanced Profile Display & Navigation (2025-01-07)
+
+### Summary
+Major improvements to the GitHub profile README for better navigation, visual appeal, and user experience. Added modern design elements, fixed bugs, and improved overall structure.
+
+### ✨ New Features
+- **Table of Contents**: Added comprehensive table of contents for easy navigation
+- **Quick Links Section**: Added prominent quick links section for key destinations
+- **Enhanced About Me**: Restructured with a visual table layout showing content creation and technology focus
+- **Highlights Section**: Added social metrics badges for followers, stars, and subscribers
+- **Improved Current Focus**: Converted to a visual table format for better readability
+
+### 🐛 Bug Fixes
+- Fixed typo in activity graph theme URL ("redical" → "radical")
+- Removed duplicate nlp project listing in Data Science & NLP section
+
+### 🎨 Visual Improvements
+- Added horizontal dividers (---) between all major sections for better visual separation
+- Centered Tech Stack section for improved presentation
+- Enhanced footer with better formatting and support section
+- Improved spacing and visual hierarchy throughout the document
+- Better use of emojis and formatting for visual appeal
+
+### 📝 Content Improvements
+- Better organization of "What I Do" section with dual-column table
+- Enhanced footer with "Support My Work" section
+- Added "Made with ❤️" message and last updated timestamp
+- Improved readability with consistent section formatting
+
+### 🔧 Technical Changes
+- All markdown structure improvements for better rendering on GitHub
+- Better semantic organization of content sections
+- Improved mobile responsiveness considerations
+
+---
+
 ## v1.1.0 - Profile README Update
 
 ### Summary
