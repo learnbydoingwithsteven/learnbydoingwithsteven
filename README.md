@@ -163,6 +163,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube_🇨🇳-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Steven学以致用)
 [![Spotify](https://img.shields.io/badge/Spotify_🇬🇧-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR)
 [![Spotify](https://img.shields.io/badge/Spotify_🇨🇳-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w)
+[![喜马拉雅](https://img.shields.io/badge/喜马拉雅-FF6600?style=flat-square&logo=podcast&logoColor=white)](https://www.ximalaya.com/album/88884765)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/TyDaMKAV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Catchingtides)
