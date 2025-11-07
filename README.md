@@ -54,7 +54,7 @@
 
 **About:** [About Me](#-about-me) • [Current Focus](#-current-focus) • [Tech Stack](#-tech-stack)  
 **Content:** [Channels](#-content-channels) • [Projects](#-featured-projects) • [Categories](#-project-categories)  
-**Connect:** [Social Media](#-social-media--community) • [Support](#-support-my-work)
+**Connect:** [Social Media](#-social-media--community) • [Support](#-connect--support)
 
 ---
 
