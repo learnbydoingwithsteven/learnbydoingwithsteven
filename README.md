@@ -4,11 +4,17 @@ AI Engineer • ML Educator • Content Creator
 
 Turning complex ideas into hands-on tutorials in English and Chinese.
 
+<p align="center">
+  <a href="#repos">Repositories</a> · <a href="#social">Social Matrix</a> · <a href="#metrics">GitHub Metrics</a>
+</p>
+
+<a id="repos"></a>
+
 <details>
 <summary><b>📦 Public Repositories — full view (enhanced)</b></summary>
 
 <details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b>🤖 AI & Machine Learning (4)</b></summary>
 
 <details>
 <summary>ai_100</summary>
@@ -49,7 +55,7 @@ Repo: https://github.com/learnbydoingwithsteven/agentic_sys_0-1
 </details>
 
 <details>
-<summary><b>💬 NLP & LLM</b></summary>
+<summary><b>💬 NLP & LLM (4)</b></summary>
 
 <details>
 <summary>nlp_100</summary>
@@ -90,7 +96,7 @@ Repo: https://github.com/learnbydoingwithsteven/llm_eval_gpt2
 </details>
 
 <details>
-<summary><b>🎮 Reinforcement Learning</b></summary>
+<summary><b>🎮 Reinforcement Learning (7)</b></summary>
 
 <details>
 <summary>rl_100</summary>
@@ -109,7 +115,7 @@ GitHub: https://github.com/learnbydoingwithsteven?tab=repositories&q=rl_2425
 </details>
 
 <details>
-<summary><b>📦 Applications</b></summary>
+<summary><b>📦 Applications (5)</b></summary>
 
 <details>
 <summary>bank_100</summary>
@@ -159,7 +165,7 @@ Repo: https://github.com/learnbydoingwithsteven/rag_10
 </details>
 
 <details>
-<summary><b>🎓 Education</b></summary>
+<summary><b>🎓 Education (3)</b></summary>
 
 <details>
 <summary>mit</summary>
@@ -195,11 +201,12 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 
 </details>
 
+<a id="social"></a>
 <details>
 <summary><b>📇 社交矩阵 | Social Media Matrix</b></summary>
 
 <details>
-<summary>🌐 主站与文章 | Website & Writing</summary>
+<summary>🌐 主站与文章 | Website & Writing (6)</summary>
 
 - 🧱 Github: https://github.com/learnbydoingwithsteven
 - 🌐 Github.io: https://learnbydoingwithsteven.github.io/
@@ -211,7 +218,7 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 <details>
-<summary>💬 社群矩阵 | Communities</summary>
+<summary>💬 社群矩阵 | Communities (5)</summary>
 
 - 🌐 LinkedIn Group（中/欧/美AI社群）: https://www.linkedin.com/groups/15054015
 - 💬 Discord（中欧美AI社群）: https://discord.gg/XE6WpAfM
@@ -222,14 +229,14 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 <details>
-<summary>🧑‍💼 直接联系 | Direct Contacts</summary>
+<summary>🧑‍💼 直接联系 | Direct Contacts (1)</summary>
 
 - Email: wjbear2020@gmail.com
 
 </details>
 
 <details>
-<summary>💰 支持创作 | Support Steven’s Work</summary>
+<summary>💰 支持创作 | Support Steven’s Work (2)</summary>
 
 - 💳 Paypal: https://www.paypal.com/paypalme/wangjiansuper?country.x=IT&locale.x=en_US
 - ☕ Buy Me A Coffee: https://buymeacoffee.com/learnbydoing
@@ -237,7 +244,7 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 <details>
-<summary>🎥 视频矩阵 | Video</summary>
+<summary>🎥 视频矩阵 | Video (4)</summary>
 
 - ▶️ YouTube · Learn By Doing: https://www.youtube.com/@learnbydoingwithsteven
 - ▶️ 数能生智（中文）: https://www.youtube.com/@%E6%95%B0%E8%83%BD%E7%94%9F%E6%99%BA
@@ -247,7 +254,7 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 <details>
-<summary>🌍 网站 / 频道 / 平台 | Website</summary>
+<summary>🌍 网站 / 频道 / 平台 | Website (9)</summary>
 
 - WhatsApp Channel: https://whatsapp.com/channel/0029VazqfKFK0IBoyfgyO70b
 - Telegram Channel: https://t.me/learnbydoingwithsteven
@@ -262,7 +269,7 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 <details>
-<summary>📱 社交平台 | Social</summary>
+<summary>📱 社交平台 | Social (6)</summary>
 
 - 小红书: https://www.xiaohongshu.com/user/profile/5e0e450b0000000001001e26?xsec_token=YBolHet_ed8Npv1I7yr4lMGb6VRZWtbkE9QSkodxdCu0I=&xsec_source=app_share&xhsshare=CopyLink&appuid=5e0e450b0000000001001e26&apptime=1737132065&share_id=c4262bd995c34cebaab2e0d85e5a3875
 - LinkedIn（独立项目）: https://www.linkedin.com/in/steven-w-6828a31bb/
@@ -274,7 +281,7 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 <details>
-<summary>🤝 合作伙伴 | Collaborations</summary>
+<summary>🤝 合作伙伴 | Collaborations (4)</summary>
 
 - Vanta Tech Lab: https://www.linkedin.com/company/vantatechlab
 - DukeCEO: https://www.linkedin.com/company/chinese-entrepreneurs-organization-at-duke-dukeceo
@@ -284,7 +291,7 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 <details>
-<summary>🚗 兴趣爱好 | Hobby</summary>
+<summary>🚗 兴趣爱好 | Hobby (2)</summary>
 
 - Steven On The Road (YouTube): https://youtube.com/@stevenontheroad6129?si=pAUvAm0af6eFJrDn
 - Steven On The Road（哔哩哔哩）: https://space.bilibili.com/157133040
@@ -346,6 +353,7 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 
 </details>
 
+<a id="metrics"></a>
 <details>
 <summary><b>📊 GitHub Metrics</b></summary>
 
