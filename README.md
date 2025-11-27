@@ -1,446 +1,115 @@
-<div align="center">
+# Learn By Doing with Steven
 
-# 👋 Hi, I'm Steven
+AI Engineer • ML Educator • Content Creator
 
-### AI Engineer • ML Educator • Content Creator
+Turning complex ideas into hands-on tutorials in English and Chinese.
 
-*Turning complex ideas into hands-on tutorials in 🇬🇧 English / 🇨🇳 Chinese*
+## 🌐 主站与文章 | Website & Writing
 
-<br>
+- 🧱 Github: https://github.com/learnbydoingwithsteven
+- 🌐 Github.io: https://learnbydoingwithsteven.github.io/
+- 🐻 Bear Blog: https://learnbydoingwithsteven.bearblog.dev/
+- ✍️ Substack: https://substack.com/@steven923044
+- 📰 LinkedIn Newsletter: https://www.linkedin.com/newsletters/7283566848875384833/
+- 📲 微信公众号: https://mp.weixin.qq.com/s/_UgwPOKp0KFDNQdPSYuWMg
 
-### 🔗 Quick Access
+## 💬 社群矩阵 | Communities
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://www.youtube.com/@learnbydoingwithsteven">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/><br>
-<sub><b>Video Tutorials</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://learnbydoingwithsteven.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/><br>
-<sub><b>Project Showcase</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://linktr.ee/learnbydoingwithsteven">
-<img src="https://img.shields.io/badge/LinkTree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/><br>
-<sub><b>All Links</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://discord.gg/TyDaMKAV">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/><br>
-<sub><b>Community</b></sub>
-</a>
-</td>
-</tr>
-</table>
+- 🌐 LinkedIn Group（中/欧/美AI社群）: https://www.linkedin.com/groups/15054015
+- 💬 Discord（中欧美AI社群）: https://discord.gg/XE6WpAfM
+- 💬 Discord（Learn By Doing）: https://discord.gg/47yq8KcC
+- 📡 Telegram Group（技术·播客）: https://t.me/+i9NRjGCKjRQxMDNk
+- 📱 WhatsApp Group（技术·播客）: https://chat.whatsapp.com/Gmfju4artZB0VfRxV93H8p
 
-<br>
+## 🧑‍💼 直接联系 | Direct Contacts
 
-![GitHub followers](https://img.shields.io/github/followers/learnbydoingwithsteven?style=flat-square&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/learnbydoingwithsteven?style=flat-square&logo=github)
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgRd8EgI7hZ5VXm4wHMxKyQ?style=flat-square&logo=youtube&color=red)
-![Profile Views](https://komarev.com/ghpvc/?username=learnbydoingwithsteven&color=blueviolet&style=flat-square)
+- Email: wjbear2020@gmail.com
 
-</div>
+## 💰 支持创作 | Support Steven’s Work
 
----
+- 💳 Paypal: https://www.paypal.com/paypalme/wangjiansuper?country.x=IT&locale.x=en_US
+- ☕ Buy Me A Coffee: https://buymeacoffee.com/learnbydoing
 
-## 📑 Navigation
+## 🎥 视频矩阵 | Video
 
-**About:** [About Me](#-about-me) • [Current Focus](#-current-focus) • [Tech Stack](#-tech-stack)  
-**Content:** [Channels](#-content-channels) • [Projects](#-featured-projects) • [Categories](#-project-categories)  
-**Connect:** [Social Media](#-social-media--community) • [Support](#-connect--support)
+- ▶️ YouTube · Learn By Doing: https://www.youtube.com/@learnbydoingwithsteven
+- ▶️ 数能生智（中文）: https://www.youtube.com/@%E6%95%B0%E8%83%BD%E7%94%9F%E6%99%BA
+- 🎵 TikTok: https://www.tiktok.com/@learnbydoingwithsteven
+- 📺 哔哩哔哩（Steven数据漫谈）: https://space.bilibili.com/3546784399886498?spm_id_from=333.788.upinfo.head.click
 
----
+## 🌍 网站 / 频道 / 平台 | Website
 
-## 🚀 About Me
+- WhatsApp Channel: https://whatsapp.com/channel/0029VazqfKFK0IBoyfgyO70b
+- Telegram Channel: https://t.me/learnbydoingwithsteven
+- Github: https://github.com/learnbydoingwithsteven
+- Github.io: https://learnbydoingwithsteven.github.io/
+- LinkedIn Newsletter (Business): https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7359504834644926464
+- LinkedIn Newsletter (Tech): https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7283566848875384833
+- Substack: https://substack.com/@steven923044
+- Bear Blog: https://learnbydoingwithsteven.bearblog.dev/
+- 微信公众号: 精选文章
 
-> **AI/ML educator and builder** passionate about making complex technical concepts accessible through hands-on projects.  
-> I believe the best way to learn is by doing - applying concepts directly to real-world problems.
+## 📱 社交平台 | Social
 
-<br>
+- 小红书: https://www.xiaohongshu.com/user/profile/5e0e450b0000000001001e26?xsec_token=YBolHet_ed8Npv1I7yr4lMGb6VRZWtbkE9QSkodxdCu0I=&xsec_source=app_share&xhsshare=CopyLink&appuid=5e0e450b0000000001001e26&apptime=1737132065&share_id=c4262bd995c34cebaab2e0d85e5a3875
+- LinkedIn（独立项目）: https://www.linkedin.com/in/steven-w-6828a31bb/
+- LinkedIn（完整职业）: https://www.linkedin.com/in/jian-w-83bb36440/
+- X（Twitter）: https://x.com/Catchingtides
+- Facebook: https://www.facebook.com/profile.php?id=61571798756202
+- Instagram: https://www.instagram.com/learnbydoingwithsteven
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🤝 合作伙伴 | Collaborations
 
-### ✨ Content Creation
-- 🎬 Practical AI/ML tutorials
-- 🌍 Bilingual: English 🇬🇧 & Chinese 🇨🇳
-- 📝 Video, audio, and written formats
-- 🎯 Real-world applications
+- Vanta Tech Lab: https://www.linkedin.com/company/vantatechlab
+- DukeCEO: https://www.linkedin.com/company/chinese-entrepreneurs-organization-at-duke-dukeceo
+- 创·见 Founder Vision: https://www.xiaoyuzhoufm.com/podcast/66a322470736bb4045362844?s=eyJ1IjoiNjVkZDlhNDBlZGNlNjcxMDRhOThhNjZkIiwiZCI6MX0=
+- 我作为嘉宾的节目: https://www.xiaoyuzhoufm.com/episode/690c8ad5d99642be96c4accc
 
-</td>
-<td width="50%" valign="top">
+## 🚗 兴趣爱好 | Hobby
 
-### 🛠️ Technology Focus
-- 🤖 LangChain & AutoGen frameworks
-- 🔍 RAG systems & local LLMs
-- 📊 Data Science & NLP
-- 🔄 AI Agent workflows
+- Steven On The Road (YouTube): https://youtube.com/@stevenontheroad6129?si=pAUvAm0af6eFJrDn
+- Steven On The Road（哔哩哔哩）: https://space.bilibili.com/157133040
 
-</td>
-</tr>
-</table>
+## Learn by Doing with Steven 数能生智 | 播客矩阵
 
-<br>
+### 1) Steven Data Talk
 
-<div align="center">
+- Apple Podcasts: https://podcasts.apple.com/gb/podcast/steven-data-talk/id1845702474
+- Spotify: https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR?si=Q7XxCzxsSTKXmKiW27hmAA
+- 喜马拉雅: https://www.ximalaya.com/album/88884765
+- 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef81ce0a78e59c5c5c45e7
+- YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBk1oCeZg-xwdnYbNuSDqgmW&si=EQtgt96FfSZSwxvc
+- Amazon Music: https://music.amazon.com/podcasts/b31ecf00-32e8-41b5-96cd-13e86253d249/steven-data-talk
 
-💡 *New to AI?* Start with my [YouTube channel](https://www.youtube.com/@learnbydoingwithsteven) • *Need a break?* Check out my [4K drone videos](https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug) 🎥
+### 2) Steven 数据漫谈
 
-</div>
+- Apple Podcasts: https://podcasts.apple.com/gb/podcast/steven%E6%95%B0%E6%8D%AE%E6%BC%AB%E8%B0%88/id1845703144
+- Spotify: https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w?si=QgCsksYYSV-jTqz1e4tFpw
+- 喜马拉雅: https://www.ximalaya.com/album/89574928
+- 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef81d14ce3619b345a32b2
+- YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBmQOOLxMpZXn519_PW3uneG&si=rgCVgHICnqNK5rFX
+- Amazon Music: https://music.amazon.com/podcasts/6d68d8c4-d7bb-4c1d-8b6c-1e9b0946463d/steven%E6%95%B0%E6%8D%AE%E6%BC%AB%E8%B0%88
 
----
+### 3) Steven AI Talk（多语）
 
-## 📢 Content Channels
+- English · Apple Podcasts: https://podcasts.apple.com/gb/podcast/steven-ai-talk-english/id1846320778
+- English · Spotify: https://open.spotify.com/show/43CVIH13u3pvIyg9aTEHwY?si=w-gPlNheRmCTfvlIPOwL9w
+- English · Amazon Music: https://music.amazon.com/podcasts/7aaf0f86-7cb1-4f6f-bba3-6fd3cb9dcad2/steven-ai-talkenglish
+- English · 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef7ec2332567e348b6e57b
+- English · YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBk811V6mTVbL483S_56ZtF5&si=qqGM8Es0NTSFtflX
+- 中文 · Spotify（Steven AI 播客）: https://open.spotify.com/show/7gLoHfOKO302yNcF7bzNOu?si=FU7xcKwUQU-jfTXxi0grBg
+- 中文 · 喜马拉雅: https://www.ximalaya.com/album/88276097
+- Italiano · Spotify: https://open.spotify.com/show/7D3BcWR5xGzGap8A1bSeoQ?si=ek8GNzrnT-OdiGJ91vi0rw
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 4) YC 斯坦福创业课 2015 CS183B 精讲
 
-### 📺 Video
-- **[Learn by Doing](https://www.youtube.com/@learnbydoingwithsteven)** 🇬🇧  
-  *English AI/ML tutorials*
-  
-- **[Steven学以致用](https://www.youtube.com/@Steven学以致用)** 🇨🇳  
-  *Chinese AI/ML tutorials*
-  
-- **[TikTok](https://www.tiktok.com/@learn.by.doing4)**  
-  *Quick tech tips & demos*
-  
-- **[Steven On The Road](https://www.youtube.com/channel/UCr6JS3ObvkByZUibhwcGEug)**  
-  *4K drone cinematography*
-
-</td>
-<td width="33%" valign="top">
-
-### 🎤 Audio
-- **[Data Talk](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR)** 🇬🇧  
-  *English podcast on Spotify*
-  
-- **[Steven数据漫谈](https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w)** 🇨🇳  
-  *Chinese podcast on Spotify*
-  
-- **[喜马拉雅](https://www.ximalaya.com/album/88884765)**  
-  *Chinese audio platform*
-  
-- **[AI Talk](https://www.ximalaya.com/album/88276097)**  
-  *AI discussions (CN)*
-
-</td>
-<td width="33%" valign="top">
-
-### ✍️ Written
-- **[Substack](https://substack.com/@steven923044)**  
-  *In-depth technical articles*
-  
-- **[Bear Blog](https://learnbydoingwithsteven.bearblog.dev)**  
-  *Development notes & tips*
-  
-- **[LinkedIn](https://www.linkedin.com/in/steven-w-6828a31bb/)**  
-  *Professional insights*
-  
-- **[微信公众号](https://mp.weixin.qq.com)**  
-  *Chinese tech articles*
-
-</td>
-</tr>
-</table>
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/yc%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%88%9B%E4%B8%9A%E8%AF%BE2015cs183b%E7%B2%BE%E8%AE%B2/id1846320657
+- Spotify: https://open.spotify.com/show/5dg2pUoVlwvWCu2RSRYUay?si=esrJ8TByS-Cqrw4aOqKDyw
+- 喜马拉雅: https://m.ximalaya.com/album/109171033?from=pc
+- 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef7ec662e8bfe0dffdd116
+- YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBlRgHAHArWBcpbOYykZfMqI&si=KwnQAp25yoprI39H
+- Amazon Music: https://music.amazon.com/podcasts/97f55ca2-d30d-48d8-afa5-9d51362bf92c/yc%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%88%9B%E4%B8%9A%E8%AF%BE2015cs183b%E7%B2%BE%E8%AE%B2
 
 ---
 
-## 🌐 Social Media & Community
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/TyDaMKAV)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Catchingtides)
-[![小红书](https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.whatsapp.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-*Organized by category • Focused on AI agents, RAG systems, and data science*
-
-**[View Full Portfolio →](https://learnbydoingwithsteven.github.io/)**
-
-</div>
-
-<br>
-
-### 🤖 AI Agent Frameworks
-
-Building and extending multi-agent AI systems for complex tasks.
-
-| Project | Description |
-|---------|-------------|
-| **[Autogen_Agents](https://github.com/learnbydoingwithsteven/Autogen_Agents)** | Microsoft AutoGen implementations for multi-agent collaboration |
-| **[Crew_AI_Agents](https://github.com/learnbydoingwithsteven/Crew_AI_Agents)** | Crew AI framework experiments and collaborative systems |
-| **[agentic_dashboard_app](https://github.com/learnbydoingwithsteven/agentic_dashboard_app)** | Streamlit dashboard for AI workflow management |
-| **[workflow_simulations](https://github.com/learnbydoingwithsteven/workflow_simulations)** | AI-powered workflow automation simulations |
-
-### 💬 RAG & Chat Applications
-
-Retrieval-Augmented Generation for intelligent chatbots and knowledge systems.
-
-| Project | Description |
-|---------|-------------|
-| **[rag_chat_with_ds_streamlit](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_streamlit)** | Multilingual RAG with Streamlit, Groq, Ollama, vector DBs |
-| **[rag_chat_with_ds_react](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_react)** | Modern React + FastAPI RAG implementation |
-| **[Web RAG with Ollama](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241121_web_rag_ollama_json_ok)** | Web content retrieval for RAG systems |
-| **[AutoGen RAG Integration](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT)** | Combining multi-agent systems with RAG |
-
-### 📊 Data Science & NLP
-
-Practical applications of data analysis, visualization, and natural language processing.
-
-| Project | Description |
-|---------|-------------|
-| **[nlp](https://github.com/learnbydoingwithsteven/nlp)** | NLP experiments and text analysis implementations |
-| **[Python_Data_Analysis](https://github.com/learnbydoingwithsteven/Python_Data_Analysis)** | Python scripts and notebooks for data science |
-| **[agentic_datascience_tool](https://github.com/learnbydoingwithsteven/agentic_datascience_tool)** | AI-powered data science automation |
-| **[Stock Market Analysis](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis)** | Financial news sentiment analysis |
-
-### 🎓 Learning Resources
-
-| Project | Description |
-|---------|-------------|
-| **[Youtube](https://github.com/learnbydoingwithsteven/Youtube)** | All tutorial code from English & Chinese YouTube channels |
-| **[AI_Research](https://github.com/learnbydoingwithsteven/AI_Research)** | Cutting-edge AI research projects |
-| **[Model_Tests](https://github.com/learnbydoingwithsteven/Model_Tests)** | AI model testing and benchmarking |
-
----
-
-## 📚 Project Categories
-
-<details>
-<summary><b>🤖 AI Agent Systems</b> • Multi-agent frameworks and complex task automation</summary>
-
-<br>
-
-- [AutoGen Agents](https://github.com/learnbydoingwithsteven/Autogen_Agents) - Multi-agent systems for complex tasks
-- [Crew AI Agents](https://github.com/learnbydoingwithsteven/Crew_AI_Agents) - Specialized AI agent frameworks
-- [Research Group Chat](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT) - Business scenario implementations
-- [Nested Chat Implementation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240906_autogen_nested_chat) - Advanced conversation structures
-- [Code Executors](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240501_autogen_code_executors) - Agent-driven code generation
-
-</details>
-
-<details>
-<summary><b>🔍 RAG Systems</b> • Knowledge retrieval and augmented generation</summary>
-
-<br>
-
-- [RAG Chat (Streamlit)](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_streamlit) - Full RAG with Groq/Ollama
-- [RAG Chat (React)](https://github.com/learnbydoingwithsteven/rag_chat_with_ds_react) - Modern React frontend
-- [Web RAG with Ollama](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241121_web_rag_ollama_json_ok) - Web content RAG
-- [AutoGen RAG Integration](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240517%20AUTOGEN%20RESEARCH%20GROUP%20CHAT%20AND%20RAG%20GROUP%20CHAT) - Agents + RAG
-
-</details>
-
-<details>
-<summary><b>🧪 LLM Testing</b> • Local deployment and model evaluation</summary>
-
-<br>
-
-- [Local Chat Bot](https://github.com/learnbydoingwithsteven/Local_Chat_Bot) - Self-hosted LLM interface
-- [Model Tests](https://github.com/learnbydoingwithsteven/Model_Tests) - Open-source model testing
-- [LLAMA 3.2 Tests](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240926_llama3.2_1b_3b_tests) - LLAMA performance evaluation
-- [GPT4 Testing](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240913_gpt4o_test) - GPT-4 capabilities
-- [Hugging Face Models](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241029_hugg_model_test) - HF model testing
-
-</details>
-
-<details>
-<summary><b>📊 Financial Analysis</b> • Market analysis and simulations</summary>
-
-<br>
-
-- [Stock News Sentiment](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240505%20stock%20news%20sentiment%20analysis) - NLP market analysis
-- [Bank Simulation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240915%20bank%20simulation) - Banking system simulation
-- [Stock Analysis Reports](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240502%20stock%20analysis%20report%20basic%20version) - Fundamental analysis
-- [Intrinsic Value Calculation](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240429_stock_intrinsic_value_calculation) - Valuation models
-- [Financial Visualization](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240429_Code_with_GPT_Stock_Price_Visualization) - Price visualization
-
-</details>
-
-<details>
-<summary><b>🧮 Machine Learning</b> • Deep learning and model architectures</summary>
-
-<br>
-
-- [Python Data Analysis](https://github.com/learnbydoingwithsteven/Python_Data_Analysis) - Data analysis frameworks
-- [ANN Simulations](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20241022_ann_simulations) - Neural network implementations
-- [Weather Forecast Models](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240912_Weather_Forcast_3_models) - Comparative ML approaches
-- [Transformer Playground](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240915_datatalkep2_numpy_transformerplayground) - Transformer experiments
-- [GPT2 and BERT](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240913_transformer_gpt2_bert) - Model comparisons
-
-</details>
-
-<details>
-<summary><b>📚 Educational Series</b> • Tutorials and learning resources</summary>
-
-<br>
-
-- [YouTube Tutorials](https://github.com/learnbydoingwithsteven/Youtube) - Complete tutorial collection
-- [AI Research](https://github.com/learnbydoingwithsteven/AI_Research) - Advanced AI research
-- [Data Talk Series](https://github.com/learnbydoingwithsteven/Youtube/tree/main/20240915_datatalkep1_dsccourse_dstools) - Data science content
-- [Podcast Content](https://github.com/learnbydoingwithsteven/podcast) - AI/ML podcasts
-
-</details>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**AI/ML Frameworks**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Langchain](https://img.shields.io/badge/🦜_Langchain-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Data Science**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=500"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<details>
-<summary><b>📊 Weekly Coding Activity</b></summary>
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 45 mins  ███████████░░░░░░░  65.32%
-Jupyter      4 hrs 20 mins   ██████░░░░░░░░░░░░  22.18%
-Markdown     1 hr 30 mins    ███░░░░░░░░░░░░░░░   7.69%
-JavaScript   45 mins         ██░░░░░░░░░░░░░░░░   3.85%
-Other        10 mins         █░░░░░░░░░░░░░░░░░   0.96%
-```
-<!--END_SECTION:waka-->
-
-</details>
-
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<h3>🤖</h3>
-<b>AI Development</b>
-<br><br>
-<sub>Advanced AutoGen & multi-agent implementations</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<h3>📚</h3>
-<b>Education</b>
-<br><br>
-<sub>Creating accessible AI/ML content & tutorials</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<h3>🔧</h3>
-<b>Building</b>
-<br><br>
-<sub>Practical LLM applications & RAG systems</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<h3>🌱</h3>
-<b>Exploration</b>
-<br><br>
-<sub>Making AI accessible to everyone</sub>
-<br><br>
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Connect & Support
-
-<div align="center">
-
-### Find Me On
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@learnbydoingwithsteven)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/TyDaMKAV)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Catchingtides)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@learn.by.doing4)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://spotifyanchor-web.app.link/e/ZHi3LoLHZNb)
-
-<br>
-
-### 💝 Support This Work
-
-*If you find my content helpful, consider buying me a coffee!*
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/learnbydoing)
-
-<br>
-
----
-
-<sub>Made with ❤️ for the AI/ML community</sub>  
-<sub>© 2025 Learn by Doing with Steven</sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=learnbydoingwithsteven&color=blueviolet&style=flat-square)
-
-</div>
+© 2025 Learn By Doing with Steven
