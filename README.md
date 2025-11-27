@@ -12,22 +12,38 @@ Turning complex ideas into hands-on tutorials in English and Chinese.
 
 <details>
 <summary>ai_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/ai_100
+Hands-on AI foundations, projects, and exercises.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/ai_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/ai_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/ai_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/ai_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/ai_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/ai_100
 </details>
 
 <details>
 <summary>ml_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/ml_100
+Practical machine learning pipelines and patterns.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/ml_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/ml_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/ml_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/ml_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/ml_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/ml_100
 </details>
 
 <details>
 <summary>agents_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/agents_100
+Agent frameworks, tools, and examples.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/agents_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/agents_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/agents_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/agents_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/agents_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/agents_100
 </details>
 
 <details>
 <summary>agentic_sys_0-1</summary>
-GitHub: https://github.com/learnbydoingwithsteven/agentic_sys_0-1
+Building agentic systems end-to-end.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/agentic_sys_0-1
 </details>
 
 </details>
@@ -37,22 +53,38 @@ GitHub: https://github.com/learnbydoingwithsteven/agentic_sys_0-1
 
 <details>
 <summary>nlp_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/nlp_100
+Natural language processing fundamentals and tasks.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/nlp_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/nlp_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/nlp_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/nlp_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/nlp_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/nlp_100
 </details>
 
 <details>
 <summary>nlp_0-1</summary>
-GitHub: https://github.com/learnbydoingwithsteven/nlp_0-1
+From zero to one in NLP implementations.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/nlp_0-1?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/nlp_0-1?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/nlp_0-1?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/nlp_0-1?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/nlp_0-1?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/nlp_0-1
 </details>
 
 <details>
 <summary>llm_0-1</summary>
-GitHub: https://github.com/learnbydoingwithsteven/llm_0-1
+LLM apps, tooling, and evaluation workflows.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/llm_0-1?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/llm_0-1?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/llm_0-1?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/llm_0-1?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/llm_0-1?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/llm_0-1
 </details>
 
 <details>
 <summary>llm_eval_gpt2</summary>
-GitHub: https://github.com/learnbydoingwithsteven/llm_eval_gpt2
+GPT-2 evaluation experiments and benchmarks.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/llm_eval_gpt2
 </details>
 
 </details>
@@ -62,7 +94,11 @@ GitHub: https://github.com/learnbydoingwithsteven/llm_eval_gpt2
 
 <details>
 <summary>rl_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/rl_100
+Reinforcement learning basics and environments.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/rl_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/rl_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/rl_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/rl_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/rl_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/rl_100
 </details>
 
 <details>
@@ -77,27 +113,47 @@ GitHub: https://github.com/learnbydoingwithsteven?tab=repositories&q=rl_2425
 
 <details>
 <summary>bank_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/bank_100
+Banking data workflows and risk modeling examples.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/bank_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/bank_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/bank_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/bank_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/bank_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/bank_100
 </details>
 
 <details>
 <summary>law_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/law_100
+Legal tech and document AI experiments.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/law_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/law_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/law_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/law_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/law_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/law_100
 </details>
 
 <details>
 <summary>games_100</summary>
-GitHub: https://github.com/learnbydoingwithsteven/games_100
+Game AI, search, and simulations.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/games_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/games_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/games_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/games_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/games_100?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/games_100
 </details>
 
 <details>
 <summary>cag_10</summary>
-GitHub: https://github.com/learnbydoingwithsteven/cag_10
+Context-aware generation prototypes.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/cag_10?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/cag_10?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/cag_10?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/cag_10?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/cag_10?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/cag_10
 </details>
 
 <details>
 <summary>rag_10</summary>
-GitHub: https://github.com/learnbydoingwithsteven/rag_10
+Retrieval-augmented generation micro-projects.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/rag_10?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/rag_10?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/rag_10?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/rag_10?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/rag_10?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/rag_10
 </details>
 
 </details>
@@ -107,17 +163,29 @@ GitHub: https://github.com/learnbydoingwithsteven/rag_10
 
 <details>
 <summary>mit</summary>
-GitHub: https://github.com/learnbydoingwithsteven/mit
+MIT course notes and implementations.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/mit?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/mit?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/mit?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/mit?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/mit?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/mit
 </details>
 
 <details>
 <summary>stanford</summary>
-GitHub: https://github.com/learnbydoingwithsteven/stanford
+Stanford course notes and implementations.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/stanford?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/stanford?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/stanford?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/stanford?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/stanford?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/stanford
 </details>
 
 <details>
 <summary>youtube_ref</summary>
-GitHub: https://github.com/learnbydoingwithsteven/youtube_ref
+Reference materials and code from videos.
+
+![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/youtube_ref?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/youtube_ref?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/youtube_ref?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/youtube_ref?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/youtube_ref?style=flat&color=4b5563)
+
+Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 </details>
 
 </details>
