@@ -346,6 +346,19 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 
 </details>
 
+<details>
+<summary><b>📊 GitHub Metrics</b></summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&hide_title=true&area=true&hide_border=true" alt="Activity Graph" />
+
+<img src="https://api.star-history.com/svg?repos=learnbydoingwithsteven/ai_100,learnbydoingwithsteven/ml_100,learnbydoingwithsteven/agents_100,learnbydoingwithsteven/rl_100&type=Date" alt="Star History" />
+
+</details>
+
 ---
 
 © 2025 Learn By Doing with Steven
