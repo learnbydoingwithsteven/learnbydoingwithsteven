@@ -1,372 +1,315 @@
-# Learn By Doing with Steven
+<div align="center">
 
-AI Engineer • ML Educator • Content Creator
+# 🚀 Learn By Doing with Steven
 
-Turning complex ideas into hands-on tutorials in English and Chinese.
+### AI Engineer • ML Educator • Content Creator
 
-<p align="center">
-  <a href="#repos">Repositories</a> · <a href="#social">Social Matrix</a> · <a href="#metrics">GitHub Metrics</a>
-</p>
+*Turning complex ideas into hands-on tutorials in English and Chinese*
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnbydoingwithsteven)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/learnbydoingwithsteven)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://learnbydoingwithsteven.github.io/)
+
+---
+
+**Quick Navigation:** [📦 Repositories](#repos) • [📇 Social Media](#social) • [📊 GitHub Metrics](#metrics)
+
+</div>
+
+---
+
 
 <a id="repos"></a>
 
-<details>
-<summary><b>📦 Public Repositories — full view (enhanced)</b></summary>
+## 📦 Public Repositories
+
+<details open>
+<summary><b>Click to view all repositories by category</b></summary>
+
+<br>
 
 <details>
-<summary><b>🤖 AI & Machine Learning (4)</b></summary>
+<summary><b>🤖 AI & Machine Learning</b> <i>(4 repositories)</i></summary>
 
-<details>
-<summary>ai_100</summary>
-Hands-on AI foundations, projects, and exercises.
+<br>
 
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/ai_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/ai_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/ai_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/ai_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/ai_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/ai_100
-</details>
-
-<details>
-<summary>ml_100</summary>
-Practical machine learning pipelines and patterns.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/ml_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/ml_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/ml_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/ml_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/ml_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/ml_100
-</details>
-
-<details>
-<summary>agents_100</summary>
-Agent frameworks, tools, and examples.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/agents_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/agents_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/agents_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/agents_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/agents_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/agents_100
-</details>
-
-<details>
-<summary>agentic_sys_0-1</summary>
-Building agentic systems end-to-end.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/agentic_sys_0-1?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/agentic_sys_0-1
-</details>
+| Repository | Description | Stats |
+|------------|-------------|-------|
+| **[ai_100](https://github.com/learnbydoingwithsteven/ai_100)** | Hands-on AI foundations, projects, and exercises | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/ai_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/ai_100?style=flat-square&color=6b7280) |
+| **[ml_100](https://github.com/learnbydoingwithsteven/ml_100)** | Practical machine learning pipelines and patterns | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/ml_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/ml_100?style=flat-square&color=6b7280) |
+| **[agents_100](https://github.com/learnbydoingwithsteven/agents_100)** | Agent frameworks, tools, and examples | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/agents_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/agents_100?style=flat-square&color=6b7280) |
+| **[agentic_sys_0-1](https://github.com/learnbydoingwithsteven/agentic_sys_0-1)** | Building agentic systems end-to-end | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/agentic_sys_0-1?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/agentic_sys_0-1?style=flat-square&color=6b7280) |
 
 </details>
 
 <details>
-<summary><b>💬 NLP & LLM (4)</b></summary>
+<summary><b>💬 NLP & LLM</b> <i>(4 repositories)</i></summary>
 
-<details>
-<summary>nlp_100</summary>
-Natural language processing fundamentals and tasks.
+<br>
 
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/nlp_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/nlp_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/nlp_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/nlp_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/nlp_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/nlp_100
-</details>
-
-<details>
-<summary>nlp_0-1</summary>
-From zero to one in NLP implementations.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/nlp_0-1?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/nlp_0-1?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/nlp_0-1?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/nlp_0-1?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/nlp_0-1?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/nlp_0-1
-</details>
-
-<details>
-<summary>llm_0-1</summary>
-LLM apps, tooling, and evaluation workflows.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/llm_0-1?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/llm_0-1?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/llm_0-1?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/llm_0-1?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/llm_0-1?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/llm_0-1
-</details>
-
-<details>
-<summary>llm_eval_gpt2</summary>
-GPT-2 evaluation experiments and benchmarks.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/llm_eval_gpt2?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/llm_eval_gpt2
-</details>
+| Repository | Description | Stats |
+|------------|-------------|-------|
+| **[nlp_100](https://github.com/learnbydoingwithsteven/nlp_100)** | Natural language processing fundamentals and tasks | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/nlp_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/nlp_100?style=flat-square&color=6b7280) |
+| **[nlp_0-1](https://github.com/learnbydoingwithsteven/nlp_0-1)** | From zero to one in NLP implementations | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/nlp_0-1?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/nlp_0-1?style=flat-square&color=6b7280) |
+| **[llm_0-1](https://github.com/learnbydoingwithsteven/llm_0-1)** | LLM apps, tooling, and evaluation workflows | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/llm_0-1?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/llm_0-1?style=flat-square&color=6b7280) |
+| **[llm_eval_gpt2](https://github.com/learnbydoingwithsteven/llm_eval_gpt2)** | GPT-2 evaluation experiments and benchmarks | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/llm_eval_gpt2?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/llm_eval_gpt2?style=flat-square&color=6b7280) |
 
 </details>
 
 <details>
-<summary><b>🎮 Reinforcement Learning (7)</b></summary>
+<summary><b>🎮 Reinforcement Learning</b> <i>(7 repositories)</i></summary>
 
-<details>
-<summary>rl_100</summary>
-Reinforcement learning basics and environments.
+<br>
 
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/rl_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/rl_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/rl_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/rl_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/rl_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/rl_100
-</details>
-
-<details>
-<summary>rl_2425_1 ~ rl_2425_6</summary>
-GitHub: https://github.com/learnbydoingwithsteven?tab=repositories&q=rl_2425
-</details>
+| Repository | Description | Stats |
+|------------|-------------|-------|
+| **[rl_100](https://github.com/learnbydoingwithsteven/rl_100)** | Reinforcement learning basics and environments | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/rl_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/rl_100?style=flat-square&color=6b7280) |
+| **[rl_2425_1 ~ rl_2425_6](https://github.com/learnbydoingwithsteven?tab=repositories&q=rl_2425)** | RL project series (2024-2025) | 🔗 [View Series](https://github.com/learnbydoingwithsteven?tab=repositories&q=rl_2425) |
 
 </details>
 
 <details>
-<summary><b>📦 Applications (5)</b></summary>
+<summary><b>📦 Applications</b> <i>(5 repositories)</i></summary>
 
-<details>
-<summary>bank_100</summary>
-Banking data workflows and risk modeling examples.
+<br>
 
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/bank_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/bank_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/bank_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/bank_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/bank_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/bank_100
-</details>
-
-<details>
-<summary>law_100</summary>
-Legal tech and document AI experiments.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/law_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/law_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/law_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/law_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/law_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/law_100
-</details>
-
-<details>
-<summary>games_100</summary>
-Game AI, search, and simulations.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/games_100?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/games_100?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/games_100?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/games_100?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/games_100?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/games_100
-</details>
-
-<details>
-<summary>cag_10</summary>
-Context-aware generation prototypes.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/cag_10?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/cag_10?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/cag_10?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/cag_10?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/cag_10?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/cag_10
-</details>
-
-<details>
-<summary>rag_10</summary>
-Retrieval-augmented generation micro-projects.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/rag_10?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/rag_10?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/rag_10?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/rag_10?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/rag_10?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/rag_10
-</details>
+| Repository | Description | Stats |
+|------------|-------------|-------|
+| **[bank_100](https://github.com/learnbydoingwithsteven/bank_100)** | Banking data workflows and risk modeling | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/bank_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/bank_100?style=flat-square&color=6b7280) |
+| **[law_100](https://github.com/learnbydoingwithsteven/law_100)** | Legal tech and document AI experiments | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/law_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/law_100?style=flat-square&color=6b7280) |
+| **[games_100](https://github.com/learnbydoingwithsteven/games_100)** | Game AI, search, and simulations | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/games_100?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/games_100?style=flat-square&color=6b7280) |
+| **[cag_10](https://github.com/learnbydoingwithsteven/cag_10)** | Context-aware generation prototypes | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/cag_10?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/cag_10?style=flat-square&color=6b7280) |
+| **[rag_10](https://github.com/learnbydoingwithsteven/rag_10)** | Retrieval-augmented generation projects | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/rag_10?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/rag_10?style=flat-square&color=6b7280) |
 
 </details>
 
 <details>
-<summary><b>🎓 Education (3)</b></summary>
+<summary><b>🎓 Education</b> <i>(3 repositories)</i></summary>
 
-<details>
-<summary>mit</summary>
-MIT course notes and implementations.
+<br>
 
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/mit?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/mit?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/mit?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/mit?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/mit?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/mit
-</details>
-
-<details>
-<summary>stanford</summary>
-Stanford course notes and implementations.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/stanford?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/stanford?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/stanford?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/stanford?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/stanford?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/stanford
-</details>
-
-<details>
-<summary>youtube_ref</summary>
-Reference materials and code from videos.
-
-![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/youtube_ref?style=flat&color=2c3e50) ![Forks](https://img.shields.io/github/forks/learnbydoingwithsteven/youtube_ref?style=flat&color=2c3e50) ![Issues](https://img.shields.io/github/issues/learnbydoingwithsteven/youtube_ref?style=flat&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/youtube_ref?style=flat&color=6b7280) ![Last Commit](https://img.shields.io/github/last-commit/learnbydoingwithsteven/youtube_ref?style=flat&color=4b5563)
-
-Repo: https://github.com/learnbydoingwithsteven/youtube_ref
-</details>
+| Repository | Description | Stats |
+|------------|-------------|-------|
+| **[mit](https://github.com/learnbydoingwithsteven/mit)** | MIT course notes and implementations | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/mit?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/mit?style=flat-square&color=6b7280) |
+| **[stanford](https://github.com/learnbydoingwithsteven/stanford)** | Stanford course notes and implementations | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/stanford?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/stanford?style=flat-square&color=6b7280) |
+| **[youtube_ref](https://github.com/learnbydoingwithsteven/youtube_ref)** | Reference materials and code from videos | ![Stars](https://img.shields.io/github/stars/learnbydoingwithsteven/youtube_ref?style=flat-square&color=2c3e50) ![Top Lang](https://img.shields.io/github/languages/top/learnbydoingwithsteven/youtube_ref?style=flat-square&color=6b7280) |
 
 </details>
 
-- View all repositories: https://github.com/learnbydoingwithsteven
-- Portfolio site: https://learnbydoingwithsteven.github.io/
+<br>
 
-</details>
-
-<a id="social"></a>
-<details>
-<summary><b>📇 社交矩阵 | Social Media Matrix</b></summary>
-
-<details>
-<summary>🌐 主站与文章 | Website & Writing (6)</summary>
-
-- 🧱 Github: https://github.com/learnbydoingwithsteven
-- 🌐 Github.io: https://learnbydoingwithsteven.github.io/
-- 🐻 Bear Blog: https://learnbydoingwithsteven.bearblog.dev/
-- ✍️ Substack: https://substack.com/@steven923044
-- 📰 LinkedIn Newsletter: https://www.linkedin.com/newsletters/7283566848875384833/
-- 📲 微信公众号: https://mp.weixin.qq.com/s/_UgwPOKp0KFDNQdPSYuWMg
-
-</details>
-
-<details>
-<summary>💬 社群矩阵 | Communities (5)</summary>
-
-- 🌐 LinkedIn Group（中/欧/美AI社群）: https://www.linkedin.com/groups/15054015
-- 💬 Discord（中欧美AI社群）: https://discord.gg/XE6WpAfM
-- 💬 Discord（Learn By Doing）: https://discord.gg/47yq8KcC
-- 📡 Telegram Group（技术·播客）: https://t.me/+i9NRjGCKjRQxMDNk
-- 📱 WhatsApp Group（技术·播客）: https://chat.whatsapp.com/Gmfju4artZB0VfRxV93H8p
-
-</details>
-
-<details>
-<summary>🧑‍💼 直接联系 | Direct Contacts (1)</summary>
-
-- Email: wjbear2020@gmail.com
-
-</details>
-
-<details>
-<summary>💰 支持创作 | Support Steven’s Work (2)</summary>
-
-- 💳 Paypal: https://www.paypal.com/paypalme/wangjiansuper?country.x=IT&locale.x=en_US
-- ☕ Buy Me A Coffee: https://buymeacoffee.com/learnbydoing
-
-</details>
-
-<details>
-<summary>🎥 视频矩阵 | Video (4)</summary>
-
-- ▶️ YouTube · Learn By Doing: https://www.youtube.com/@learnbydoingwithsteven
-- ▶️ 数能生智（中文）: https://www.youtube.com/@%E6%95%B0%E8%83%BD%E7%94%9F%E6%99%BA
-- 🎵 TikTok: https://www.tiktok.com/@learnbydoingwithsteven
-- 📺 哔哩哔哩（Steven数据漫谈）: https://space.bilibili.com/3546784399886498?spm_id_from=333.788.upinfo.head.click
-
-</details>
-
-<details>
-<summary>🌍 网站 / 频道 / 平台 | Website (9)</summary>
-
-- WhatsApp Channel: https://whatsapp.com/channel/0029VazqfKFK0IBoyfgyO70b
-- Telegram Channel: https://t.me/learnbydoingwithsteven
-- Github: https://github.com/learnbydoingwithsteven
-- Github.io: https://learnbydoingwithsteven.github.io/
-- LinkedIn Newsletter (Business): https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7359504834644926464
-- LinkedIn Newsletter (Tech): https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7283566848875384833
-- Substack: https://substack.com/@steven923044
-- Bear Blog: https://learnbydoingwithsteven.bearblog.dev/
-- 微信公众号: 精选文章
-
-</details>
-
-<details>
-<summary>📱 社交平台 | Social (6)</summary>
-
-- 小红书: https://www.xiaohongshu.com/user/profile/5e0e450b0000000001001e26?xsec_token=YBolHet_ed8Npv1I7yr4lMGb6VRZWtbkE9QSkodxdCu0I=&xsec_source=app_share&xhsshare=CopyLink&appuid=5e0e450b0000000001001e26&apptime=1737132065&share_id=c4262bd995c34cebaab2e0d85e5a3875
-- LinkedIn（独立项目）: https://www.linkedin.com/in/steven-w-6828a31bb/
-- LinkedIn（完整职业）: https://www.linkedin.com/in/jian-w-83bb36440/
-- X（Twitter）: https://x.com/Catchingtides
-- Facebook: https://www.facebook.com/profile.php?id=61571798756202
-- Instagram: https://www.instagram.com/learnbydoingwithsteven
-
-</details>
-
-<details>
-<summary>🤝 合作伙伴 | Collaborations (4)</summary>
-
-- Vanta Tech Lab: https://www.linkedin.com/company/vantatechlab
-- DukeCEO: https://www.linkedin.com/company/chinese-entrepreneurs-organization-at-duke-dukeceo
-- 创·见 Founder Vision: https://www.xiaoyuzhoufm.com/podcast/66a322470736bb4045362844?s=eyJ1IjoiNjVkZDlhNDBlZGNlNjcxMDRhOThhNjZkIiwiZCI6MX0=
-- 我作为嘉宾的节目: https://www.xiaoyuzhoufm.com/episode/690c8ad5d99642be96c4accc
-
-</details>
-
-<details>
-<summary>🚗 兴趣爱好 | Hobby (2)</summary>
-
-- Steven On The Road (YouTube): https://youtube.com/@stevenontheroad6129?si=pAUvAm0af6eFJrDn
-- Steven On The Road（哔哩哔哩）: https://space.bilibili.com/157133040
-
-</details>
-
-<details>
-<summary>🎙️ 播客矩阵 | Podcast Matrix</summary>
-
-<details>
-<summary>1) Steven Data Talk</summary>
-
-- Apple Podcasts: https://podcasts.apple.com/gb/podcast/steven-data-talk/id1845702474
-- Spotify: https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR?si=Q7XxCzxsSTKXmKiW27hmAA
-- 喜马拉雅: https://www.ximalaya.com/album/88884765
-- 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef81ce0a78e59c5c5c45e7
-- YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBk1oCeZg-xwdnYbNuSDqgmW&si=EQtgt96FfSZSwxvc
-- Amazon Music: https://music.amazon.com/podcasts/b31ecf00-32e8-41b5-96cd-13e86253d249/steven-data-talk
-
-</details>
-
-<details>
-<summary>2) Steven 数据漫谈</summary>
-
-- Apple Podcasts: https://podcasts.apple.com/gb/podcast/steven%E6%95%B0%E6%8D%AE%E6%BC%AB%E8%B0%88/id1845703144
-- Spotify: https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w?si=QgCsksYYSV-jTqz1e4tFpw
-- 喜马拉雅: https://www.ximalaya.com/album/89574928
-- 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef81d14ce3619b345a32b2
-- YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBmQOOLxMpZXn519_PW3uneG&si=rgCVgHICnqNK5rFX
-- Amazon Music: https://music.amazon.com/podcasts/6d68d8c4-d7bb-4c1d-8b6c-1e9b0946463d/steven%E6%95%B0%E6%8D%AE%E6%BC%AB%E8%B0%88
-
-</details>
-
-<details>
-<summary>3) Steven AI Talk（多语）</summary>
-
-- English · Apple Podcasts: https://podcasts.apple.com/gb/podcast/steven-ai-talk-english/id1846320778
-- English · Spotify: https://open.spotify.com/show/43CVIH13u3pvIyg9aTEHwY?si=w-gPlNheRmCTfvlIPOwL9w
-- English · Amazon Music: https://music.amazon.com/podcasts/7aaf0f86-7cb1-4f6f-bba3-6fd3cb9dcad2/steven-ai-talkenglish
-- English · 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef7ec2332567e348b6e57b
-- English · YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBk811V6mTVbL483S_56ZtF5&si=qqGM8Es0NTSFtflX
-- 中文 · Spotify（Steven AI 播客）: https://open.spotify.com/show/7gLoHfOKO302yNcF7bzNOu?si=FU7xcKwUQU-jTqz1e4tFpw
-- 中文 · 喜马拉雅: https://www.ximalaya.com/album/88276097
-- Italiano · Spotify: https://open.spotify.com/show/7D3BcWR5xGzGap8A1bSeoQ?si=ek8GNzrnT-OdiGJ91vi0rw
-
-</details>
-
-<details>
-<summary>4) YC 斯坦福创业课 2015 CS183B 精讲</summary>
-
-- Apple Podcasts: https://podcasts.apple.com/us/podcast/yc%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%88%9B%E4%B8%9A%E8%AF%BE2015cs183b%E7%B2%BE%E8%AE%B2/id1846320657
-- Spotify: https://open.spotify.com/show/5dg2pUoVlwvWCu2RSRYUay?si=esrJ8TByS-Cqrw4aOqKDyw
-- 喜马拉雅: https://m.ximalaya.com/album/109171033?from=pc
-- 小宇宙: https://www.xiaoyuzhoufm.com/podcast/68ef7ec662e8bfe0dffdd116
-- YouTube Music: https://music.youtube.com/playlist?list=PLfV0OO4XXVBlRgHAHArWBcpbOYykZfMqI&si=KwnQAp25yoprI39H
-- Amazon Music: https://music.amazon.com/podcasts/97f55ca2-d30d-48d8-afa5-9d51362bf92c/yc%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%88%9B%E4%B8%9A%E8%AF%BE2015cs183b%E7%B2%BE%E8%AE%B2
-
-</details>
-
-</details>
-
-<a id="metrics"></a>
-<details>
-<summary><b>📊 GitHub Metrics</b></summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&hide_title=true&area=true&hide_border=true" alt="Activity Graph" />
-
-<img src="https://api.star-history.com/svg?repos=learnbydoingwithsteven/ai_100,learnbydoingwithsteven/ml_100,learnbydoingwithsteven/agents_100,learnbydoingwithsteven/rl_100&type=Date" alt="Star History" />
+> **Explore more:** [All Repositories](https://github.com/learnbydoingwithsteven?tab=repositories) • [Portfolio Website](https://learnbydoingwithsteven.github.io/)
 
 </details>
 
 ---
 
+
+<a id="social"></a>
+
+## 📇 Social Media Matrix
+
+<details>
+<summary><b>Connect across platforms (bilingual: English & 中文)</b></summary>
+
+<br>
+
+### 🌐 Main Platforms | 主站与文章
+
+| Platform | Link | Description |
+|----------|------|-------------|
+| 🧱 **GitHub** | [learnbydoingwithsteven](https://github.com/learnbydoingwithsteven) | Open source projects |
+| 🌐 **Portfolio** | [github.io](https://learnbydoingwithsteven.github.io/) | Personal website |
+| 🐻 **Bear Blog** | [bearblog.dev](https://learnbydoingwithsteven.bearblog.dev/) | Technical blog |
+| ✍️ **Substack** | [@steven923044](https://substack.com/@steven923044) | Newsletter |
+| 📰 **LinkedIn Newsletter** | [Subscribe](https://www.linkedin.com/newsletters/7283566848875384833/) | Professional insights |
+| 📲 **微信公众号** | [Follow](https://mp.weixin.qq.com/s/_UgwPOKp0KFDNQdPSYuWMg) | 中文内容 |
+
+<br>
+
+### 💬 Communities | 社群矩阵
+
+| Platform | Link | Type |
+|----------|------|------|
+| 🌐 **LinkedIn Group** | [Join](https://www.linkedin.com/groups/15054015) | 中/欧/美 AI Community |
+| 💬 **Discord (Global)** | [Join](https://discord.gg/XE6WpAfM) | 中欧美AI社群 |
+| 💬 **Discord (Learn By Doing)** | [Join](https://discord.gg/47yq8KcC) | Learning Community |
+| 📡 **Telegram Group** | [Join](https://t.me/+i9NRjGCKjRQxMDNk) | 技术·播客 |
+| 📱 **WhatsApp Group** | [Join](https://chat.whatsapp.com/Gmfju4artZB0VfRxV93H8p) | 技术·播客 |
+
+<br>
+
+### 🧑‍💼 Direct Contact | 直接联系
+
+📧 **Email:** [wjbear2020@gmail.com](mailto:wjbear2020@gmail.com)
+
+<br>
+
+### 💰 Support My Work | 支持创作
+
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/wangjiansuper?country.x=IT&locale.x=en_US)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/learnbydoing)
+
+</div>
+
+<br>
+
+### 🎥 Video Platforms | 视频矩阵
+
+| Platform | Channel | Language |
+|----------|---------|----------|
+| ▶️ **YouTube** | [Learn By Doing](https://www.youtube.com/@learnbydoingwithsteven) | English & 中文 |
+| ▶️ **YouTube** | [数能生智](https://www.youtube.com/@%E6%95%B0%E8%83%BD%E7%94%9F%E6%99%BA) | 中文 |
+| 🎵 **TikTok** | [@learnbydoingwithsteven](https://www.tiktok.com/@learnbydoingwithsteven) | Multi |
+| 📺 **Bilibili** | [Steven数据漫谈](https://space.bilibili.com/3546784399886498) | 中文 |
+
+<br>
+
+### 🌍 Channels & Platforms | 网站频道
+
+| Platform | Link | Type |
+|----------|------|------|
+| 📱 **WhatsApp Channel** | [Follow](https://whatsapp.com/channel/0029VazqfKFK0IBoyfgyO70b) | Updates |
+| 📡 **Telegram Channel** | [Follow](https://t.me/learnbydoingwithsteven) | Updates |
+| 🌐 **GitHub** | [Profile](https://github.com/learnbydoingwithsteven) | Code & Projects |
+| 📰 **LinkedIn Newsletter (Business)** | [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7359504834644926464) | Business Insights |
+| 📰 **LinkedIn Newsletter (Tech)** | [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7283566848875384833) | Tech Insights |
+
+<br>
+
+### 📱 Social Platforms | 社交平台
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Projects-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-w-6828a31bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Career-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jian-w-83bb36440/)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Catchingtides)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61571798756202)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/learnbydoingwithsteven)
+[![小红书](https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e0e450b0000000001001e26)
+
+</div>
+
+<br>
+
+### 🤝 Collaborations | 合作伙伴
+
+- 🔬 **[Vanta Tech Lab](https://www.linkedin.com/company/vantatechlab)** - Innovation Lab
+- 🏛️ **[DukeCEO](https://www.linkedin.com/company/chinese-entrepreneurs-organization-at-duke-dukeceo)** - Entrepreneurship Organization
+- 🎙️ **[创·见 Founder Vision](https://www.xiaoyuzhoufm.com/podcast/66a322470736bb4045362844)** - Podcast Platform
+- 🎧 **[Featured Episode](https://www.xiaoyuzhoufm.com/episode/690c8ad5d99642be96c4accc)** - Guest Appearance
+
+<br>
+
+### 🚗 Hobbies | 兴趣爱好
+
+- 🎥 **[Steven On The Road (YouTube)](https://youtube.com/@stevenontheroad6129)** - Travel & Adventures
+- 📺 **[Steven On The Road（哔哩哔哩）](https://space.bilibili.com/157133040)** - Travel & Adventures
+
+<br>
+
+### 🎙️ Podcast Matrix | 播客矩阵
+
+<details>
+<summary><b>Click to view all podcast channels</b></summary>
+
+<br>
+
+#### 1) Steven Data Talk
+
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=flat-square&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/gb/podcast/steven-data-talk/id1845702474)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/3qSV5WJBsHbivqdmIopEYR)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLfV0OO4XXVBk1oCeZg-xwdnYbNuSDqgmW)
+[![Amazon Music](https://img.shields.io/badge/Amazon_Music-FF9900?style=flat-square&logo=amazon-music&logoColor=white)](https://music.amazon.com/podcasts/b31ecf00-32e8-41b5-96cd-13e86253d249/steven-data-talk)
+
+*Also on:* [喜马拉雅](https://www.ximalaya.com/album/88884765) • [小宇宙](https://www.xiaoyuzhoufm.com/podcast/68ef81ce0a78e59c5c5c45e7)
+
+---
+
+#### 2) Steven 数据漫谈
+
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=flat-square&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/gb/podcast/steven%E6%95%B0%E6%8D%AE%E6%BC%AB%E8%B0%88/id1845703144)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/4b8dqmQmVQiPPxuIZNR58w)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLfV0OO4XXVBmQOOLxMpZXn519_PW3uneG)
+[![Amazon Music](https://img.shields.io/badge/Amazon_Music-FF9900?style=flat-square&logo=amazon-music&logoColor=white)](https://music.amazon.com/podcasts/6d68d8c4-d7bb-4c1d-8b6c-1e9b0946463d/steven%E6%95%B0%E6%8D%AE%E6%BC%AB%E8%B0%88)
+
+*Also on:* [喜马拉雅](https://www.ximalaya.com/album/89574928) • [小宇宙](https://www.xiaoyuzhoufm.com/podcast/68ef81d14ce3619b345a32b2)
+
+---
+
+#### 3) Steven AI Talk（多语）
+
+**English:**
+
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=flat-square&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/gb/podcast/steven-ai-talk-english/id1846320778)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/43CVIH13u3pvIyg9aTEHwY)
+[![Amazon Music](https://img.shields.io/badge/Amazon_Music-FF9900?style=flat-square&logo=amazon-music&logoColor=white)](https://music.amazon.com/podcasts/7aaf0f86-7cb1-4f6f-bba3-6fd3cb9dcad2/steven-ai-talkenglish)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLfV0OO4XXVBk811V6mTVbL483S_56ZtF5)
+
+*Also on:* [小宇宙](https://www.xiaoyuzhoufm.com/podcast/68ef7ec2332567e348b6e57b)
+
+**中文:**
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/7gLoHfOKO302yNcF7bzNOu) • [喜马拉雅](https://www.ximalaya.com/album/88276097)
+
+**Italiano:**
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/7D3BcWR5xGzGap8A1bSeoQ)
+
+---
+
+#### 4) YC 斯坦福创业课 2015 CS183B 精讲
+
+[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=flat-square&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/yc%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%88%9B%E4%B8%9A%E8%AF%BE2015cs183b%E7%B2%BE%E8%AE%B2/id1846320657)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/5dg2pUoVlwvWCu2RSRYUay)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLfV0OO4XXVBlRgHAHArWBcpbOYykZfMqI)
+[![Amazon Music](https://img.shields.io/badge/Amazon_Music-FF9900?style=flat-square&logo=amazon-music&logoColor=white)](https://music.amazon.com/podcasts/97f55ca2-d30d-48d8-afa5-9d51362bf92c/yc%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%88%9B%E4%B8%9A%E8%AF%BE2015cs183b%E7%B2%BE%E8%AE%B2)
+
+*Also on:* [喜马拉雅](https://m.ximalaya.com/album/109171033?from=pc) • [小宇宙](https://www.xiaoyuzhoufm.com/podcast/68ef7ec662e8bfe0dffdd116)
+
+</details>
+
+</details>
+
+---
+
+<a id="metrics"></a>
+
+## 📊 GitHub Metrics
+
+<details open>
+<summary><b>View statistics and activity</b></summary>
+
+<br>
+
+<div align="center">
+
+### Overall Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="48%" />
+
+### Activity & Growth
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&hide_title=true&area=true&hide_border=true&theme=tokyo-night" alt="Activity Graph" />
+
+<img src="https://api.star-history.com/svg?repos=learnbydoingwithsteven/ai_100,learnbydoingwithsteven/ml_100,learnbydoingwithsteven/agents_100,learnbydoingwithsteven/rl_100&type=Date" alt="Star History" width="80%" />
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Steven**
+
 © 2025 Learn By Doing with Steven
+
+*Last Updated: December 2025*
+
+</div>
