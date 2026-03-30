@@ -2,11 +2,64 @@
 
 AI Engineer • ML Educator • Content Creator
 
-Turning complex ideas into hands-on tutorials in English and Chinese.
+Turning complex ideas into hands-on systems, tutorials, and media in English, Chinese, and Italian.
 
 <p align="center">
-  <a href="#repos">Repositories</a> · <a href="#social">Social Matrix</a> · <a href="#metrics">GitHub Metrics</a>
+  <a href="#overview">Overview</a> · <a href="#featured">Featured Work</a> · <a href="#repos">Repositories</a> · <a href="#social">Social Matrix</a> · <a href="#metrics">GitHub Metrics</a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=learnbydoingwithsteven&style=for-the-badge&color=0f766e" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/learnbydoingwithsteven?style=for-the-badge&logo=github&color=111827" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/learnbydoingwithsteven/learnbydoingwithsteven?style=for-the-badge&label=profile%20updated&color=2563eb" alt="Profile last updated" />
+</p>
+
+<a id="overview"></a>
+
+## Profile Snapshot
+
+- Practical AI projects, machine learning systems, and end-to-end agent workflows.
+- Multilingual technical education across English, Chinese, and Italian.
+- Content distribution across GitHub, YouTube, newsletters, podcasts, and community channels.
+- Best starting points for new visitors: `ai_100`, `ml_100`, `agents_100`, `llm_0-1`, and the live metrics below.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&hide_border=true&theme=default" width="49%" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learnbydoingwithsteven&theme=github" width="98%" alt="Recent activity summary" />
+</p>
+
+<a id="featured"></a>
+
+## Featured Work
+
+<p align="center">
+  <a href="https://github.com/learnbydoingwithsteven/ai_100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=ai_100&hide_border=true&theme=default" alt="ai_100" />
+  </a>
+  <a href="https://github.com/learnbydoingwithsteven/ml_100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=ml_100&hide_border=true&theme=default" alt="ml_100" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/learnbydoingwithsteven/agents_100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=agents_100&hide_border=true&theme=default" alt="agents_100" />
+  </a>
+  <a href="https://github.com/learnbydoingwithsteven/llm_0-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=llm_0-1&hide_border=true&theme=default" alt="llm_0-1" />
+  </a>
+</p>
+
+## Current Focus
+
+- Shipping practical AI and ML learning tracks that are easy to explore repo by repo.
+- Turning LLM tooling, evaluation, and agent systems into reusable examples.
+- Building applied demos for finance, data workflows, and industry use cases.
+- Growing a multilingual technical media system around GitHub, video, podcasts, and writing.
 
 <a id="repos"></a>
 
@@ -357,16 +410,27 @@ Repo: https://github.com/learnbydoingwithsteven/youtube_ref
 <details>
 <summary><b>📊 GitHub Metrics</b></summary>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=learnbydoingwithsteven&theme=github" width="49%" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=learnbydoingwithsteven&theme=github" width="49%" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=learnbydoingwithsteven&theme=github&utcOffset=1" width="49%" alt="Productive time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnbydoingwithsteven&hide_border=true&theme=default" width="49%" alt="GitHub streak" />
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnbydoingwithsteven&layout=compact&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnbydoingwithsteven&hide_title=true&area=true&hide_border=true" alt="Activity Graph" />
 
-<img src="https://api.star-history.com/svg?repos=learnbydoingwithsteven/ai_100,learnbydoingwithsteven/ml_100,learnbydoingwithsteven/agents_100,learnbydoingwithsteven/rl_100&type=Date" alt="Star History" />
+<img src="https://api.star-history.com/svg?repos=learnbydoingwithsteven/ai_100,learnbydoingwithsteven/ml_100,learnbydoingwithsteven/agents_100,learnbydoingwithsteven/llm_0-1&type=Date" alt="Star History" />
 
 </details>
 
 ---
 
 © 2025 Learn By Doing with Steven
+
