@@ -14,14 +14,24 @@ Turning complex ideas into hands-on systems, tutorials, and media in English, Ch
   <img src="https://img.shields.io/github/last-commit/learnbydoingwithsteven/learnbydoingwithsteven?style=for-the-badge&label=profile%20updated&color=2563eb" alt="Profile last updated" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/learnbydoingwithsteven"><img src="https://img.shields.io/badge/GitHub-Build%20Log-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@learnbydoingwithsteven"><img src="https://img.shields.io/badge/YouTube-Technical%20Media-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://substack.com/@steven923044"><img src="https://img.shields.io/badge/Substack-Longform%20Writing-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://www.linkedin.com/in/steven-w-6828a31bb/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Updates-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://learnbydoingwithsteven.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-Portfolio%20Hub-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 <a id="overview"></a>
 
 ## Profile Snapshot
 
-- Practical AI projects, machine learning systems, and end-to-end agent workflows.
-- Multilingual technical education across English, Chinese, and Italian.
-- Content distribution across GitHub, YouTube, newsletters, podcasts, and community channels.
-- Best starting points for new visitors: `ai_100`, `ml_100`, `agents_100`, `llm_0-1`, and the live metrics below.
+| Layer | What you will find here |
+| --- | --- |
+| Build | Practical AI systems, ML pipelines, repo-first demos, and agentic workflows. |
+| Teach | Multilingual technical education across English, Chinese, and Italian. |
+| Publish | GitHub projects, long-form writing, videos, podcasts, and creator distribution. |
+| Start Here | `ai_100`, `ml_100`, `agents_100`, `llm_0-1`, and the live activity cards below. |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnbydoingwithsteven&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default" width="49%" alt="GitHub stats" />
@@ -30,6 +40,10 @@ Turning complex ideas into hands-on systems, tutorials, and media in English, Ch
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learnbydoingwithsteven&theme=github" width="98%" alt="Recent activity summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=learnbydoingwithsteven&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="98%" alt="GitHub trophies" />
 </p>
 
 <a id="featured"></a>
@@ -53,6 +67,15 @@ Turning complex ideas into hands-on systems, tutorials, and media in English, Ch
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnbydoingwithsteven&repo=llm_0-1&hide_border=true&theme=default" alt="llm_0-1" />
   </a>
 </p>
+
+### Explore by Goal
+
+| If you want to... | Start here |
+| --- | --- |
+| Learn practical AI foundations | [`ai_100`](https://github.com/learnbydoingwithsteven/ai_100) |
+| Build machine learning workflows | [`ml_100`](https://github.com/learnbydoingwithsteven/ml_100) |
+| Study agent systems end-to-end | [`agents_100`](https://github.com/learnbydoingwithsteven/agents_100) |
+| Explore LLM apps and tooling | [`llm_0-1`](https://github.com/learnbydoingwithsteven/llm_0-1) |
 
 ## Current Focus
 
