@@ -1,0 +1,20 @@
+﻿{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-11T20:55:37Z",
+    "generatedBy":  "tools/update_project_metadata.ps1",
+    "workspace":  {
+                      "root":  "F:\\learnbydoingwithsteven",
+                      "scopeRoot":  "F:\\learnbydoingwithsteven\\learnbydoingwithsteven",
+                      "scopeRelativePath":  "learnbydoingwithsteven",
+                      "folderCount":  0
+                  },
+    "totals":  {
+                   "gitRepositories":  0,
+                   "projectFolders":  0,
+                   "workspaceFolders":  0,
+                   "archiveOrOutput":  0
+               },
+    "projects":  [
+
+                 ]
+}
