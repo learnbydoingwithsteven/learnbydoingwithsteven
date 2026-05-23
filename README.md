@@ -51,7 +51,7 @@ Areas I focus on:
 | --- | --- |
 | AI & ML | [`ai_100`](https://github.com/learnbydoingwithsteven/ai_100), [`ml_100`](https://github.com/learnbydoingwithsteven/ml_100), [`agents_100`](https://github.com/learnbydoingwithsteven/agents_100), [`agentic_sys_0-1`](https://github.com/learnbydoingwithsteven/agentic_sys_0-1) |
 | NLP & LLM | [`nlp_100`](https://github.com/learnbydoingwithsteven/nlp_100), [`nlp_0-1`](https://github.com/learnbydoingwithsteven/nlp_0-1), [`llm_0-1`](https://github.com/learnbydoingwithsteven/llm_0-1), [`llm_eval_gpt2`](https://github.com/learnbydoingwithsteven/llm_eval_gpt2) |
-| Reinforcement Learning | [`rl_100`](https://github.com/learnbydoingwithsteven/rl_100), [`rl_2425 series`](https://github.com/learnbydoingwithsteven?tab=repositories&q=rl_2425) |
+| Reinforcement Learning | [`reinforcement_learning`](https://github.com/learnbydoingwithsteven/reinforcement_learning) |
 | Applied Domains | [`bank_100`](https://github.com/learnbydoingwithsteven/bank_100), [`law_100`](https://github.com/learnbydoingwithsteven/law_100), [`games_100`](https://github.com/learnbydoingwithsteven/games_100), [`cag_10`](https://github.com/learnbydoingwithsteven/cag_10), [`rag_10`](https://github.com/learnbydoingwithsteven/rag_10) |
 | Education | [`mit`](https://github.com/learnbydoingwithsteven/mit), [`stanford`](https://github.com/learnbydoingwithsteven/stanford), [`youtube_ref`](https://github.com/learnbydoingwithsteven/youtube_ref) |
 
