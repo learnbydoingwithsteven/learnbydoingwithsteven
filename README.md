@@ -75,3 +75,18 @@ For collaborations, speaking, education partnerships, or technical projects: `wj
 ---
 
 Copyright 2026 Learn By Doing with Steven
+
+---
+## 📦 Project Structure
+
+```text
+learnbydoingwithsteven/
+├── README.md
+├── changelog.md
+├── project.meta.json
+├── projects.index.json
+```
+
+## 🛠️ Technology Stack
+
+- **General Documentation & Source Files**
