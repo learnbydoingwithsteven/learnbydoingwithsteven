@@ -6,6 +6,7 @@ Building practical AI systems, machine learning workflows, and multilingual tech
 
 <p align="center">
   <a href="#about">About</a> |
+  <a href="#showcase-hub">Showcase Hub</a> |
   <a href="#core-repositories">Core Repositories</a> |
   <a href="#repository-directory">Repository Directory</a> |
   <a href="#publishing-and-community">Publishing & Community</a>
@@ -23,6 +24,16 @@ Areas I focus on:
 - repo-first education designed for hands-on learning
 - multilingual publishing across English, Chinese, and Italian
 - long-term projects spanning data, finance, tooling, and creator infrastructure
+
+<a id="showcase-hub"></a>
+
+## Showcase Hub
+
+This profile repository is the concise GitHub entry point for Learn By Doing with Steven. The public showcase, portfolio navigation, project pages, course cases, and media gateway live at:
+
+[learnbydoingwithsteven.github.io](https://learnbydoingwithsteven.github.io/)
+
+Use this README as the repository map, and use the website as the polished presentation layer for current work, selected projects, and public-facing learning materials.
 
 <a id="core-repositories"></a>
 
@@ -75,18 +86,3 @@ For collaborations, speaking, education partnerships, or technical projects: `wj
 ---
 
 Copyright 2026 Learn By Doing with Steven
-
----
-## 📦 Project Structure
-
-```text
-learnbydoingwithsteven/
-├── README.md
-├── changelog.md
-├── project.meta.json
-├── projects.index.json
-```
-
-## 🛠️ Technology Stack
-
-- **General Documentation & Source Files**
