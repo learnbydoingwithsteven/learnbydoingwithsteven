@@ -1,0 +1,10 @@
+
+# Auto-added cache & database exclusions
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.sqlite
+*.sqlite3
+*.db
+rag/index/

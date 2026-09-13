@@ -41,12 +41,12 @@
                  },
     "activity":  {
                      "lastModifiedLocal":  "2026-05-26T11:27:00",
-                     "inferredActivity":  "hot"
+                     "inferredActivity":  "recent"
                  },
     "notes":  "",
     "metadata":  {
                      "generated":  true,
-                     "generatedAt":  "2026-05-30T03:48:38Z",
+                     "generatedAt":  "2026-09-09T20:28:58Z",
                      "generatedBy":  "tools/update_project_metadata.ps1",
                      "confidence":  "inferred"
                  }
